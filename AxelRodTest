@@ -1,0 +1,67 @@
+import axelrod as axl
+import numpy
+from numpy import random as rand
+
+strategyList = [axl.Cooperator(), axl.Defector(), axl.TitForTat(), axl.Grudger(), axl.TwoTitsForTat(), axl.SlowTitForTwoTats2(), axl.SuspiciousTitForTat(), axl.SpitefulTitForTat(), axl.SneakyTitForTat(), axl.SlowTitForTwoTats2(), axl.Bully(), axl.HardProber(), axl.Inverse(), axl.Handshake(), axl.OppositeGrudger(),axl.Aggravater()]
+
+def make_game(NumberOfTurns):
+    me = axl.Human(name='me')
+    players = [strategyList[rand.randint(0,len(strategyList))], me]
+    strategy = str(players[0])
+    match = axl.Match(players, turns=NumberOfTurns)
+    results = match.play()
+    print(results)
+    return results, strategy
+
+
+game_maker, strategy = make_game(10)
+
+#for the first run, it must be File_object = open(r"PrisonerDilemma", "w+"), so that the file is created
+
+def store_data(data):
+    File_object = open(r"PrisonerDilemma","a")
+    total = 0
+    totalopp = 0
+    for i in data:
+        if str(i[0]) == 'C' and str(i[1]) == 'C':
+            #added 1 to all of the year values from the original game,
+            #to make the ratios more sensible
+            years = 2
+            oppyears = 2
+            str1 = '2 , 2'
+            str2 = strategy
+            str3 = str1 + ', '+ str2 + ', ' + '1' + ', ' + 'C, C \n'
+            File_object.write(str3)
+        elif str(i[0]) == 'C' and str(i[1]) == 'D':
+            years = 1
+            oppyears = 4
+            str1 = '4, 1'
+            str2 = strategy
+            str3 = str1 + ', ' + str2 + ', ' + '.25' + ', ' + 'C, D \n'
+            File_object.write(str3)
+        elif str(i[0]) == 'D' and str(i[1]) == 'C':
+            years = 4
+            oppyears = 1
+            str1 = '1, 4'
+            str2 = strategy
+            str3 = str1 + ', '+ str2 + ', ' + '4' + ', ' + 'D, C \n'
+            File_object.write(str3)
+        elif str(i[0]) == 'D' and str(i[1]) == 'D':
+            years = 3
+            oppyears = 3
+            str1 = '3, 3'
+            str2 = strategy
+            str3 = str1 + ', '+ str2 + ', ' + '1' + ', ' + 'D, D \n'
+            File_object.write(str3)
+
+        total = total + years
+        totalopp = totalopp + oppyears
+    if totalopp == 0:
+        totalopp = 1
+    print(total)
+    print(totalopp)
+    ratio = total/totalopp
+    print(ratio)
+
+
+store_data(game_maker)
