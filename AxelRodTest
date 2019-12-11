@@ -1,22 +1,83 @@
 import axelrod as axl
-import numpy
+import numpy as np
 from numpy import random as rand
 
 strategyList = [axl.Cooperator(), axl.Defector(), axl.TitForTat(), axl.Grudger(), axl.TwoTitsForTat(), axl.SlowTitForTwoTats2(), axl.SuspiciousTitForTat(), axl.SpitefulTitForTat(), axl.SneakyTitForTat(), axl.SlowTitForTwoTats2(), axl.Bully(), axl.HardProber(), axl.Inverse(), axl.Handshake(), axl.OppositeGrudger(),axl.Aggravater()]
+print(type(strategyList[1]))
 
 def make_game(NumberOfTurns):
     me = axl.Human(name='me')
     players = [strategyList[rand.randint(0,len(strategyList))], me]
     strategy = str(players[0])
+    print(strategy)
     match = axl.Match(players, turns=NumberOfTurns)
     results = match.play()
     print(results)
     return results, strategy
 
+def probability_calculator(file_name):
+    myscore = 0
+    oppscore = 0
+    File_object = open(file_name,"r+")
+    list = []
+    counter = 0
+    for line in File_object:
+        try:
+            print(line + ' line')
+            line2 = line.split(',')
+            myscore += int(line2[1])
+            oppscore += int(line2[0])
+            print(str(myscore) + ': human score')
+            print(str(oppscore) + ': computer score')
+            counter += 1
+            if counter % 10 == 0:
+                if oppscore == 0:
+                    oppscore = 1
+                if myscore == 0:
+                    myscore = 1
+                ratio = myscore/oppscore
+                print(str(ratio) + ': ratio')
+                print(str(myscore) + ': human score')
+                print(str(oppscore) + ': computer score')
+                if ratio <= 1:
+                    result = 0
+                elif ratio > 1:
+                    result = 1
+                strat = line2[2]
+                ratiostrat = strat + ',' + str(result)
+                list.append(ratiostrat)
+                myscore = 0
+                oppscore = 0
+        except ValueError:
+            counter = 0
+    otherlist = []
+    newdic = {}
+    newcounter = 0
+    for i in list:
+        print(i)
+        stratresult = i.split(',')
+        print(stratresult)
+        answer = stratresult[0]
+        resultingvalue = stratresult[1]
+        newcounter += 1
+        print(newcounter)
+        if stratresult[1] == '1':
+            if any(answer in s for s in otherlist):
+                print('wooh')
+                newdic[answer] = (newdic[answer] + 1)/len(list)
+            else:
+                newdic[answer] = 1/len(list)
+                otherlist.append(answer)
+    print(newdic)
 
-game_maker, strategy = make_game(10)
 
-#for the first run, it must be File_object = open(r"PrisonerDilemma", "w+"), so that the file is created
+    return list, newdic
+
+
+
+
+
+# for the first run, it must be File_object = open(r"PrisonerDilemma", "w+"), so that the file is created
 
 def store_data(data):
     File_object = open(r"PrisonerDilemma","a")
@@ -63,5 +124,68 @@ def store_data(data):
     ratio = total/totalopp
     print(ratio)
 
+def BayesStratChoice(newdic):
+    total = 0
+    valueList = []
+    keyList = []
+    for key in newdic:
+        total += newdic[key]
+    for key in newdic:
+        proportion = int(newdic[key])/total
+        valueList.append(newdic[key])
+        keyList.append(key)
 
-store_data(game_maker)
+    chosenStrat = np.random.choice(keyList, 1, valueList)
+    return chosenStrat
+
+
+strategyList = [axl.Cooperator(), axl.Defector(), axl.TitForTat(), axl.Grudger(), axl.TwoTitsForTat(), axl.SlowTitForTwoTats2(), axl.SuspiciousTitForTat(), axl.SpitefulTitForTat(), axl.SneakyTitForTat(), axl.Bully(), axl.HardProber(), axl.Inverse(), axl.Handshake(), axl.OppositeGrudger(),axl.Aggravater()]
+# def main():
+game_maker, strategy = make_game(10)
+while 1:
+    store_data(game_maker)
+    listy,newdic = probability_calculator('PrisonerDilemma')
+    print(newdic)
+    print('dictionary above')
+    me = axl.Human(name='me')
+    if str(BayesStratChoice(newdic)[0].replace(' ', '')) == 'Cooperator':
+        strat = axl.Cooperator()
+    elif str(BayesStratChoice(newdic)[0].replace(' ', '')) == 'Defector':
+        strat = axl.Defector()
+    elif str(BayesStratChoice(newdic)[0].replace(' ', '')) == 'TitForTat':
+        strat = axl.TitForTat()
+    elif str(BayesStratChoice(newdic)[0].replace(' ', '')) == 'Grudger':
+        strat = axl.Grudger()
+    elif str(BayesStratChoice(newdic)[0].replace(' ', '')) == 'TwoTitsForTat':
+        strat = axl.TwoTitsForTat()
+    elif str(BayesStratChoice(newdic)[0].replace(' ', '')) == 'SlowTitForTwoTats2':
+        strat = axl.SlowTitForTwoTats2()
+    elif str(BayesStratChoice(newdic)[0].replace(' ', '')) == 'SuspiciousTitForTat':
+        strat = axl.SuspiciousTitForTat()
+    elif str(BayesStratChoice(newdic)[0].replace(' ', '')) == 'SpitefulTitForTat':
+        strat = axl.SpitefulTitForTat()
+    elif str(BayesStratChoice(newdic)[0].replace(' ', '')) == 'SneakyTitForTat':
+        strat = axl.SneakyTitForTat()
+    elif str(BayesStratChoice(newdic)[0].replace(' ', '')) == 'Bully':
+        strat = axl.Bully()
+    elif str(BayesStratChoice(newdic)[0].replace(' ', '')) == 'HardProber':
+        strat = axl.HardProber()
+    elif str(BayesStratChoice(newdic)[0].replace(' ', '')) == 'Inverse':
+        strat = axl.Inverse()
+    elif str(BayesStratChoice(newdic)[0].replace(' ', '')) == 'Handshake':
+        strat = axl.Handshake()
+    elif str(BayesStratChoice(newdic)[0].replace(' ', '')) == 'OppositeGrudger':
+        strat = axl.OppositeGrudger()
+    elif str(BayesStratChoice(newdic)[0].replace(' ', '')) == 'Aggravater':
+        strat = axl.Aggravater()
+    else:
+        print('try a different strategy!')
+        print('this one')
+        strat = strategyList[rand.randint(0,len(strategyList))]
+        print(BayesStratChoice(newdic)[0].replace(' ', ''))
+        print(type(BayesStratChoice(newdic)[0].replace(' ', '')))
+    players = [strat, me]
+    strategy = str(players[0])
+    print(strategy)
+    match = axl.Match(players, turns=10)
+    results = match.play()
