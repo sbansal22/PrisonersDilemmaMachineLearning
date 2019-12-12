@@ -1,0 +1,2140 @@
+1,4, Defector,4, D, C 
+3,3, Defector,1, D, D 
+3,3, Defector,1, D, D 
+3,3, Defector,1, D, D 
+1,4, Defector,4, D, C 
+1,4, Defector,4, D, C 
+3,3, Defector,1, D, D 
+3,3, Defector,1, D, D 
+3,3, Defector,1, D, D 
+3,3, Defector,1, D, D 
+2,2, Sneaky Tit For Tat,1, C, C 
+2,2, Sneaky Tit For Tat,1, C, C 
+3,3, Sneaky Tit For Tat,1, D, D 
+3,3, Sneaky Tit For Tat,1, D, D 
+4,1, Sneaky Tit For Tat,0.25, C, D 
+4,1, Sneaky Tit For Tat,0.25, C, D 
+3,3, Sneaky Tit For Tat,1, D, D 
+1,4, Sneaky Tit For Tat,4, D, C 
+4,1, Sneaky Tit For Tat,0.25, C, D 
+2,2, Sneaky Tit For Tat,1, C, C 
+1,4, Suspicious Tit For Tat,4, D, C 
+2,2, Suspicious Tit For Tat,1, C, C 
+4,1, Suspicious Tit For Tat,0.25, C, D 
+3,3, Suspicious Tit For Tat,1, D, D 
+3,3, Suspicious Tit For Tat,1, D, D 
+3,3, Suspicious Tit For Tat,1, D, D 
+3,3, Suspicious Tit For Tat,1, D, D 
+3,3, Suspicious Tit For Tat,1, D, D 
+3,3, Suspicious Tit For Tat,1, D, D 
+3,3, Suspicious Tit For Tat,1, D, D 
+2,2, Grudger,1, C, C 
+4,1, Grudger,0.25, C, D 
+3,3, Grudger,1, D, D 
+3,3, Grudger,1, D, D 
+3,3, Grudger,1, D, D 
+3,3, Grudger,1, D, D 
+3,3, Grudger,1, D, D 
+3,3, Grudger,1, D, D 
+3,3, Grudger,1, D, D 
+3,3, Grudger,1, D, D 
+2,2, Slow Tit For Two Tats 2,1, C, C 
+2,2, Slow Tit For Two Tats 2,1, C, C 
+2,2, Slow Tit For Two Tats 2,1, C, C 
+2,2, Slow Tit For Two Tats 2,1, C, C 
+2,2, Slow Tit For Two Tats 2,1, C, C 
+2,2, Slow Tit For Two Tats 2,1, C, C 
+2,2, Slow Tit For Two Tats 2,1, C, C 
+2,2, Slow Tit For Two Tats 2,1, C, C 
+4,1, Slow Tit For Two Tats 2,0.25, C, D 
+4,1, Slow Tit For Two Tats 2,0.25, C, D 
+4,1, Handshake,0.25, C, D 
+3,3, Handshake,1, D, D 
+1,4, Handshake,4, D, C 
+1,4, Handshake,4, D, C 
+1,4, Handshake,4, D, C 
+3,3, Handshake,1, D, D 
+3,3, Handshake,1, D, D 
+3,3, Handshake,1, D, D 
+3,3, Handshake,1, D, D 
+3,3, Handshake,1, D, D 
+2,2, Two Tits For Tat,1, C, C 
+2,2, Two Tits For Tat,1, C, C 
+4,1, Two Tits For Tat,0.25, C, D 
+3,3, Two Tits For Tat,1, D, D 
+3,3, Two Tits For Tat,1, D, D 
+3,3, Two Tits For Tat,1, D, D 
+3,3, Two Tits For Tat,1, D, D 
+3,3, Two Tits For Tat,1, D, D 
+3,3, Two Tits For Tat,1, D, D 
+3,3, Two Tits For Tat,1, D, D 
+2,2, Two Tits For Tat,1, C, C 
+4,1, Two Tits For Tat,0.25, C, D 
+3,3, Two Tits For Tat,1, D, D 
+1,4, Two Tits For Tat,4, D, C 
+3,3, Two Tits For Tat,1, D, D 
+1,4, Two Tits For Tat,4, D, C 
+3,3, Two Tits For Tat,1, D, D 
+1,4, Two Tits For Tat,4, D, C 
+3,3, Two Tits For Tat,1, D, D 
+1,4, Two Tits For Tat,4, D, C 
+2,2, Handshake,1, C, C 
+1,4, Handshake,4, D, C 
+3,3, Handshake,1, D, D 
+3,3, Handshake,1, D, D 
+3,3, Handshake,1, D, D 
+3,3, Handshake,1, D, D 
+1,4, Handshake,4, D, C 
+1,4, Handshake,4, D, C 
+3,3, Handshake,1, D, D 
+3,3, Handshake,1, D, D 
+1,4, Opposite Grudger,4, D, C 
+2,2, Opposite Grudger,1, C, C 
+4,1, Opposite Grudger,0.25, C, D 
+4,1, Opposite Grudger,0.25, C, D 
+4,1, Opposite Grudger,0.25, C, D 
+4,1, Opposite Grudger,0.25, C, D 
+4,1, Opposite Grudger,0.25, C, D 
+4,1, Opposite Grudger,0.25, C, D 
+4,1, Opposite Grudger,0.25, C, D 
+4,1, Opposite Grudger,0.25, C, D 
+2,2, Two Tits For Tat,1, C, C 
+4,1, Two Tits For Tat,0.25, C, D 
+3,3, Two Tits For Tat,1, D, D 
+3,3, Two Tits For Tat,1, D, D 
+3,3, Two Tits For Tat,1, D, D 
+3,3, Two Tits For Tat,1, D, D 
+3,3, Two Tits For Tat,1, D, D 
+3,3, Two Tits For Tat,1, D, D 
+3,3, Two Tits For Tat,1, D, D 
+3,3, Two Tits For Tat,1, D, D 
+2,2, Tit For Tat,1, C, C 
+4,1, Tit For Tat,0.25, C, D 
+3,3, Tit For Tat,1, D, D 
+3,3, Tit For Tat,1, D, D 
+3,3, Tit For Tat,1, D, D 
+3,3, Tit For Tat,1, D, D 
+1,4, Tit For Tat,4, D, C 
+2,2, Tit For Tat,1, C, C 
+2,2, Tit For Tat,1, C, C 
+4,1, Tit For Tat,0.25, C, D 
+1,4, Bully,4, D, C 
+3,3, Bully,1, D, D 
+4,1, Bully,0.25, C, D 
+4,1, Bully,0.25, C, D 
+4,1, Bully,0.25, C, D 
+4,1, Bully,0.25, C, D 
+4,1, Bully,0.25, C, D 
+4,1, Bully,0.25, C, D 
+4,1, Bully,0.25, C, D 
+4,1, Bully,0.25, C, D 
+1,4, Defector,4, D, C 
+1,4, Defector,4, D, C 
+1,4, Defector,4, D, C 
+1,4, Defector,4, D, C 
+3,3, Defector,1, D, D 
+3,3, Defector,1, D, D 
+3,3, Defector,1, D, D 
+3,3, Defector,1, D, D 
+3,3, Defector,1, D, D 
+3,3, Defector,1, D, D 
+2,2, Slow Tit For Two Tats 2,1, C, C 
+2,2, Slow Tit For Two Tats 2,1, C, C 
+2,2, Slow Tit For Two Tats 2,1, C, C 
+4,1, Slow Tit For Two Tats 2,0.25, C, D 
+4,1, Slow Tit For Two Tats 2,0.25, C, D 
+3,3, Slow Tit For Two Tats 2,1, D, D 
+3,3, Slow Tit For Two Tats 2,1, D, D 
+3,3, Slow Tit For Two Tats 2,1, D, D 
+3,3, Slow Tit For Two Tats 2,1, D, D 
+3,3, Slow Tit For Two Tats 2,1, D, D 
+2,2, Slow Tit For Two Tats 2,1, C, C 
+2,2, Slow Tit For Two Tats 2,1, C, C 
+2,2, Slow Tit For Two Tats 2,1, C, C 
+2,2, Slow Tit For Two Tats 2,1, C, C 
+2,2, Slow Tit For Two Tats 2,1, C, C 
+2,2, Slow Tit For Two Tats 2,1, C, C 
+2,2, Slow Tit For Two Tats 2,1, C, C 
+2,2, Slow Tit For Two Tats 2,1, C, C 
+2,2, Slow Tit For Two Tats 2,1, C, C 
+4,1, Slow Tit For Two Tats 2,0.25, C, D 
+2,2, Spiteful Tit For Tat,1, C, C 
+4,1, Spiteful Tit For Tat,0.25, C, D 
+3,3, Spiteful Tit For Tat,1, D, D 
+3,3, Spiteful Tit For Tat,1, D, D 
+1,4, Spiteful Tit For Tat,4, D, C 
+1,4, Spiteful Tit For Tat,4, D, C 
+1,4, Spiteful Tit For Tat,4, D, C 
+1,4, Spiteful Tit For Tat,4, D, C 
+1,4, Spiteful Tit For Tat,4, D, C 
+1,4, Spiteful Tit For Tat,4, D, C 
+2,2, Inverse,1, C, C 
+4,1, Inverse,0.25, C, D 
+3,3, Inverse,1, D, D 
+3,3, Inverse,1, D, D 
+3,3, Inverse,1, D, D 
+1,4, Inverse,4, D, C 
+2,2, Inverse,1, C, C 
+3,3, Inverse,1, D, D 
+3,3, Inverse,1, D, D 
+3,3, Inverse,1, D, D 
+2,2, Inverse,1, C, C 
+4,1, Inverse,0.25, C, D 
+3,3, Inverse,1, D, D 
+3,3, Inverse,1, D, D 
+3,3, Inverse,1, D, D 
+1,4, Inverse,4, D, C 
+2,2, Inverse,1, C, C 
+4,1, Inverse,0.25, C, D 
+3,3, Inverse,1, D, D 
+3,3, Inverse,1, D, D 
+2,2, Slow Tit For Two Tats 2,1, C, C 
+4,1, Slow Tit For Two Tats 2,0.25, C, D 
+4,1, Slow Tit For Two Tats 2,0.25, C, D 
+3,3, Slow Tit For Two Tats 2,1, D, D 
+3,3, Slow Tit For Two Tats 2,1, D, D 
+3,3, Slow Tit For Two Tats 2,1, D, D 
+3,3, Slow Tit For Two Tats 2,1, D, D 
+1,4, Slow Tit For Two Tats 2,4, D, C 
+1,4, Slow Tit For Two Tats 2,4, D, C 
+4,1, Slow Tit For Two Tats 2,0.25, C, D 
+2,2, Grudger,1, C, C 
+4,1, Grudger,0.25, C, D 
+3,3, Grudger,1, D, D 
+1,4, Grudger,4, D, C 
+1,4, Grudger,4, D, C 
+1,4, Grudger,4, D, C 
+1,4, Grudger,4, D, C 
+1,4, Grudger,4, D, C 
+1,4, Grudger,4, D, C 
+1,4, Grudger,4, D, C 
+1,4, Suspicious Tit For Tat,4, D, C 
+4,1, Suspicious Tit For Tat,0.25, C, D 
+3,3, Suspicious Tit For Tat,1, D, D 
+3,3, Suspicious Tit For Tat,1, D, D 
+3,3, Suspicious Tit For Tat,1, D, D 
+1,4, Suspicious Tit For Tat,4, D, C 
+4,1, Suspicious Tit For Tat,0.25, C, D 
+3,3, Suspicious Tit For Tat,1, D, D 
+3,3, Suspicious Tit For Tat,1, D, D 
+3,3, Suspicious Tit For Tat,1, D, D 
+2,2, Two Tits For Tat,1, C, C 
+2,2, Two Tits For Tat,1, C, C 
+2,2, Two Tits For Tat,1, C, C 
+2,2, Two Tits For Tat,1, C, C 
+2,2, Two Tits For Tat,1, C, C 
+2,2, Two Tits For Tat,1, C, C 
+2,2, Two Tits For Tat,1, C, C 
+4,1, Two Tits For Tat,0.25, C, D 
+3,3, Two Tits For Tat,1, D, D 
+3,3, Two Tits For Tat,1, D, D 
+1,4, Defector,4, D, C 
+3,3, Defector,1, D, D 
+3,3, Defector,1, D, D 
+3,3, Defector,1, D, D 
+3,3, Defector,1, D, D 
+3,3, Defector,1, D, D 
+3,3, Defector,1, D, D 
+3,3, Defector,1, D, D 
+3,3, Defector,1, D, D 
+3,3, Defector,1, D, D 
+2,2, Slow Tit For Two Tats 2,1, C, C 
+2,2, Slow Tit For Two Tats 2,1, C, C 
+4,1, Slow Tit For Two Tats 2,0.25, C, D 
+4,1, Slow Tit For Two Tats 2,0.25, C, D 
+1,4, Slow Tit For Two Tats 2,4, D, C 
+3,3, Slow Tit For Two Tats 2,1, D, D 
+3,3, Slow Tit For Two Tats 2,1, D, D 
+3,3, Slow Tit For Two Tats 2,1, D, D 
+3,3, Slow Tit For Two Tats 2,1, D, D 
+3,3, Slow Tit For Two Tats 2,1, D, D 
+2,2, Two Tits For Tat,1, C, C 
+2,2, Two Tits For Tat,1, C, C 
+2,2, Two Tits For Tat,1, C, C 
+4,1, Two Tits For Tat,0.25, C, D 
+3,3, Two Tits For Tat,1, D, D 
+3,3, Two Tits For Tat,1, D, D 
+3,3, Two Tits For Tat,1, D, D 
+3,3, Two Tits For Tat,1, D, D 
+3,3, Two Tits For Tat,1, D, D 
+3,3, Two Tits For Tat,1, D, D 
+1,4, Suspicious Tit For Tat,4, D, C 
+4,1, Suspicious Tit For Tat,0.25, C, D 
+3,3, Suspicious Tit For Tat,1, D, D 
+1,4, Suspicious Tit For Tat,4, D, C 
+4,1, Suspicious Tit For Tat,0.25, C, D 
+3,3, Suspicious Tit For Tat,1, D, D 
+3,3, Suspicious Tit For Tat,1, D, D 
+1,4, Suspicious Tit For Tat,4, D, C 
+2,2, Suspicious Tit For Tat,1, C, C 
+4,1, Suspicious Tit For Tat,0.25, C, D 
+3,3, Defector,1, D, D 
+1,4, Defector,4, D, C 
+1,4, Defector,4, D, C 
+3,3, Defector,1, D, D 
+3,3, Defector,1, D, D 
+3,3, Defector,1, D, D 
+3,3, Defector,1, D, D 
+3,3, Defector,1, D, D 
+3,3, Defector,1, D, D 
+3,3, Defector,1, D, D 
+1,4, Hard Prober,4, D, C 
+1,4, Hard Prober,4, D, C 
+2,2, Hard Prober,1, C, C 
+2,2, Hard Prober,1, C, C 
+3,3, Hard Prober,1, D, D 
+3,3, Hard Prober,1, D, D 
+3,3, Hard Prober,1, D, D 
+3,3, Hard Prober,1, D, D 
+3,3, Hard Prober,1, D, D 
+3,3, Hard Prober,1, D, D 
+2,2, Sneaky Tit For Tat,1, C, C 
+2,2, Sneaky Tit For Tat,1, C, C 
+1,4, Sneaky Tit For Tat,4, D, C 
+3,3, Sneaky Tit For Tat,1, D, D 
+4,1, Sneaky Tit For Tat,0.25, C, D 
+4,1, Sneaky Tit For Tat,0.25, C, D 
+3,3, Sneaky Tit For Tat,1, D, D 
+3,3, Sneaky Tit For Tat,1, D, D 
+4,1, Sneaky Tit For Tat,0.25, C, D 
+4,1, Sneaky Tit For Tat,0.25, C, D 
+2,2, Two Tits For Tat,1, C, C 
+2,2, Two Tits For Tat,1, C, C 
+2,2, Two Tits For Tat,1, C, C 
+2,2, Two Tits For Tat,1, C, C 
+2,2, Two Tits For Tat,1, C, C 
+4,1, Two Tits For Tat,0.25, C, D 
+3,3, Two Tits For Tat,1, D, D 
+3,3, Two Tits For Tat,1, D, D 
+3,3, Two Tits For Tat,1, D, D 
+3,3, Two Tits For Tat,1, D, D 
+2,2, Slow Tit For Two Tats 2,1, C, C 
+2,2, Slow Tit For Two Tats 2,1, C, C 
+2,2, Slow Tit For Two Tats 2,1, C, C 
+2,2, Slow Tit For Two Tats 2,1, C, C 
+2,2, Slow Tit For Two Tats 2,1, C, C 
+2,2, Slow Tit For Two Tats 2,1, C, C 
+2,2, Slow Tit For Two Tats 2,1, C, C 
+2,2, Slow Tit For Two Tats 2,1, C, C 
+2,2, Slow Tit For Two Tats 2,1, C, C 
+4,1, Slow Tit For Two Tats 2,0.25, C, D 
+1,4, Bully,4, D, C 
+3,3, Bully,1, D, D 
+4,1, Bully,0.25, C, D 
+4,1, Bully,0.25, C, D 
+4,1, Bully,0.25, C, D 
+4,1, Bully,0.25, C, D 
+4,1, Bully,0.25, C, D 
+4,1, Bully,0.25, C, D 
+4,1, Bully,0.25, C, D 
+4,1, Bully,0.25, C, D 
+2,2, Tit For Tat,1, C, C 
+2,2, Tit For Tat,1, C, C 
+2,2, Tit For Tat,1, C, C 
+2,2, Tit For Tat,1, C, C 
+4,1, Tit For Tat,0.25, C, D 
+3,3, Tit For Tat,1, D, D 
+3,3, Tit For Tat,1, D, D 
+3,3, Tit For Tat,1, D, D 
+1,4, Tit For Tat,4, D, C 
+2,2, Tit For Tat,1, C, C 
+1,4, Aggravater,4, D, C 
+1,4, Aggravater,4, D, C 
+1,4, Aggravater,4, D, C 
+4,1, Aggravater,0.25, C, D 
+3,3, Aggravater,1, D, D 
+3,3, Aggravater,1, D, D 
+3,3, Aggravater,1, D, D 
+3,3, Aggravater,1, D, D 
+3,3, Aggravater,1, D, D 
+3,3, Aggravater,1, D, D 
+2,2, Handshake,1, C, C 
+1,4, Handshake,4, D, C 
+1,4, Handshake,4, D, C 
+1,4, Handshake,4, D, C 
+1,4, Handshake,4, D, C 
+1,4, Handshake,4, D, C 
+1,4, Handshake,4, D, C 
+3,3, Handshake,1, D, D 
+3,3, Handshake,1, D, D 
+3,3, Handshake,1, D, D 
+2,2, Slow Tit For Two Tats 2,1, C, C 
+2,2, Slow Tit For Two Tats 2,1, C, C 
+2,2, Slow Tit For Two Tats 2,1, C, C 
+4,1, Slow Tit For Two Tats 2,0.25, C, D 
+4,1, Slow Tit For Two Tats 2,0.25, C, D 
+3,3, Slow Tit For Two Tats 2,1, D, D 
+3,3, Slow Tit For Two Tats 2,1, D, D 
+3,3, Slow Tit For Two Tats 2,1, D, D 
+3,3, Slow Tit For Two Tats 2,1, D, D 
+3,3, Slow Tit For Two Tats 2,1, D, D 
+2,2, Handshake,1, C, C 
+3,3, Handshake,1, D, D 
+4,1, Handshake,0.25, C, D 
+4,1, Handshake,0.25, C, D 
+4,1, Handshake,0.25, C, D 
+2,2, Handshake,1, C, C 
+2,2, Handshake,1, C, C 
+2,2, Handshake,1, C, C 
+2,2, Handshake,1, C, C 
+2,2, Handshake,1, C, C 
+2,2, Sneaky Tit For Tat,1, C, C 
+4,1, Sneaky Tit For Tat,0.25, C, D 
+3,3, Sneaky Tit For Tat,1, D, D 
+3,3, Sneaky Tit For Tat,1, D, D 
+4,1, Sneaky Tit For Tat,0.25, C, D 
+4,1, Sneaky Tit For Tat,0.25, C, D 
+3,3, Sneaky Tit For Tat,1, D, D 
+3,3, Sneaky Tit For Tat,1, D, D 
+4,1, Sneaky Tit For Tat,0.25, C, D 
+4,1, Sneaky Tit For Tat,0.25, C, D 
+2,2, Cooperator,1, C, C 
+2,2, Cooperator,1, C, C 
+2,2, Cooperator,1, C, C 
+2,2, Cooperator,1, C, C 
+2,2, Cooperator,1, C, C 
+2,2, Cooperator,1, C, C 
+4,1, Cooperator,0.25, C, D 
+4,1, Cooperator,0.25, C, D 
+4,1, Cooperator,0.25, C, D 
+4,1, Cooperator,0.25, C, D 
+1,4, Suspicious Tit For Tat,4, D, C 
+2,2, Suspicious Tit For Tat,1, C, C 
+2,2, Suspicious Tit For Tat,1, C, C 
+4,1, Suspicious Tit For Tat,0.25, C, D 
+3,3, Suspicious Tit For Tat,1, D, D 
+3,3, Suspicious Tit For Tat,1, D, D 
+3,3, Suspicious Tit For Tat,1, D, D 
+3,3, Suspicious Tit For Tat,1, D, D 
+1,4, Suspicious Tit For Tat,4, D, C 
+4,1, Suspicious Tit For Tat,0.25, C, D 
+2,2, Handshake,1, C, C 
+1,4, Handshake,4, D, C 
+3,3, Handshake,1, D, D 
+3,3, Handshake,1, D, D 
+3,3, Handshake,1, D, D 
+3,3, Handshake,1, D, D 
+3,3, Handshake,1, D, D 
+3,3, Handshake,1, D, D 
+3,3, Handshake,1, D, D 
+3,3, Handshake,1, D, D 
+4,1, Handshake,0.25, C, D 
+1,4, Handshake,4, D, C 
+3,3, Handshake,1, D, D 
+3,3, Handshake,1, D, D 
+3,3, Handshake,1, D, D 
+3,3, Handshake,1, D, D 
+3,3, Handshake,1, D, D 
+3,3, Handshake,1, D, D 
+1,4, Handshake,4, D, C 
+3,3, Handshake,1, D, D 
+4,1, Slow Tit For Two Tats 2,0.25, C, D 
+2,2, Slow Tit For Two Tats 2,1, C, C 
+4,1, Slow Tit For Two Tats 2,0.25, C, D 
+2,2, Slow Tit For Two Tats 2,1, C, C 
+4,1, Slow Tit For Two Tats 2,0.25, C, D 
+2,2, Slow Tit For Two Tats 2,1, C, C 
+4,1, Slow Tit For Two Tats 2,0.25, C, D 
+2,2, Slow Tit For Two Tats 2,1, C, C 
+4,1, Slow Tit For Two Tats 2,0.25, C, D 
+2,2, Slow Tit For Two Tats 2,1, C, C 
+2,2, Spiteful Tit For Tat,1, C, C 
+4,1, Spiteful Tit For Tat,0.25, C, D 
+1,4, Spiteful Tit For Tat,4, D, C 
+4,1, Spiteful Tit For Tat,0.25, C, D 
+1,4, Spiteful Tit For Tat,4, D, C 
+4,1, Spiteful Tit For Tat,0.25, C, D 
+1,4, Spiteful Tit For Tat,4, D, C 
+4,1, Spiteful Tit For Tat,0.25, C, D 
+3,3, Spiteful Tit For Tat,1, D, D 
+3,3, Spiteful Tit For Tat,1, D, D 
+3,3, Hard Prober,1, D, D 
+1,4, Hard Prober,4, D, C 
+4,1, Hard Prober,0.25, C, D 
+2,2, Hard Prober,1, C, C 
+4,1, Hard Prober,0.25, C, D 
+3,3, Hard Prober,1, D, D 
+3,3, Hard Prober,1, D, D 
+1,4, Hard Prober,4, D, C 
+4,1, Hard Prober,0.25, C, D 
+3,3, Hard Prober,1, D, D 
+4,1, Inverse,0.25, C, D 
+1,4, Inverse,4, D, C 
+3,3, Inverse,1, D, D 
+1,4, Inverse,4, D, C 
+4,1, Inverse,0.25, C, D 
+3,3, Inverse,1, D, D 
+1,4, Inverse,4, D, C 
+3,3, Inverse,1, D, D 
+1,4, Inverse,4, D, C 
+4,1, Inverse,0.25, C, D 
+4,1, Spiteful Tit For Tat,0.25, C, D 
+1,4, Spiteful Tit For Tat,4, D, C 
+4,1, Spiteful Tit For Tat,0.25, C, D 
+1,4, Spiteful Tit For Tat,4, D, C 
+4,1, Spiteful Tit For Tat,0.25, C, D 
+1,4, Spiteful Tit For Tat,4, D, C 
+4,1, Spiteful Tit For Tat,0.25, C, D 
+1,4, Spiteful Tit For Tat,4, D, C 
+4,1, Spiteful Tit For Tat,0.25, C, D 
+3,3, Spiteful Tit For Tat,1, D, D 
+3,3, Bully,1, D, D 
+2,2, Bully,1, C, C 
+3,3, Bully,1, D, D 
+4,1, Bully,0.25, C, D 
+4,1, Bully,0.25, C, D 
+2,2, Bully,1, C, C 
+3,3, Bully,1, D, D 
+4,1, Bully,0.25, C, D 
+2,2, Bully,1, C, C 
+3,3, Bully,1, D, D 
+1,4, Hard Prober,4, D, C 
+3,3, Hard Prober,1, D, D 
+2,2, Hard Prober,1, C, C 
+4,1, Hard Prober,0.25, C, D 
+1,4, Hard Prober,4, D, C 
+4,1, Hard Prober,0.25, C, D 
+1,4, Hard Prober,4, D, C 
+4,1, Hard Prober,0.25, C, D 
+1,4, Hard Prober,4, D, C 
+4,1, Hard Prober,0.25, C, D 
+2 , 2, Handshake, 1, C, C 
+1, 4, Handshake, 4, D, C 
+1, 4, Handshake, 4, D, C 
+3, 3, Handshake, 1, D, D 
+3, 3, Handshake, 1, D, D 
+3, 3, Handshake, 1, D, D 
+3, 3, Handshake, 1, D, D 
+3, 3, Handshake, 1, D, D 
+3, 3, Handshake, 1, D, D 
+3, 3, Handshake, 1, D, D 
+1, 4, Opposite Grudger, 4, D, C 
+2 , 2, Opposite Grudger, 1, C, C 
+2 , 2, Opposite Grudger, 1, C, C 
+2 , 2, Opposite Grudger, 1, C, C 
+2 , 2, Opposite Grudger, 1, C, C 
+2 , 2, Opposite Grudger, 1, C, C 
+2 , 2, Opposite Grudger, 1, C, C 
+2 , 2, Opposite Grudger, 1, C, C 
+2 , 2, Opposite Grudger, 1, C, C 
+2 , 2, Opposite Grudger, 1, C, C 
+3, 3, Defector, 1, D, D 
+3, 3, Defector, 1, D, D 
+3, 3, Defector, 1, D, D 
+3, 3, Defector, 1, D, D 
+3, 3, Defector, 1, D, D 
+3, 3, Defector, 1, D, D 
+3, 3, Defector, 1, D, D 
+3, 3, Defector, 1, D, D 
+3, 3, Defector, 1, D, D 
+3, 3, Defector, 1, D, D 
+2 , 2, Slow Tit For Two Tats 2, 1, C, C 
+2 , 2, Slow Tit For Two Tats 2, 1, C, C 
+2 , 2, Slow Tit For Two Tats 2, 1, C, C 
+2 , 2, Slow Tit For Two Tats 2, 1, C, C 
+2 , 2, Slow Tit For Two Tats 2, 1, C, C 
+2 , 2, Slow Tit For Two Tats 2, 1, C, C 
+2 , 2, Slow Tit For Two Tats 2, 1, C, C 
+2 , 2, Slow Tit For Two Tats 2, 1, C, C 
+2 , 2, Slow Tit For Two Tats 2, 1, C, C 
+2 , 2, Slow Tit For Two Tats 2, 1, C, C 
+1, 4, Suspicious Tit For Tat, 4, D, C 
+2 , 2, Suspicious Tit For Tat, 1, C, C 
+2 , 2, Suspicious Tit For Tat, 1, C, C 
+4, 1, Suspicious Tit For Tat, .25, C, D 
+3, 3, Suspicious Tit For Tat, 1, D, D 
+3, 3, Suspicious Tit For Tat, 1, D, D 
+3, 3, Suspicious Tit For Tat, 1, D, D 
+3, 3, Suspicious Tit For Tat, 1, D, D 
+3, 3, Suspicious Tit For Tat, 1, D, D 
+3, 3, Suspicious Tit For Tat, 1, D, D 
+2 , 2, Grudger, 1, C, C 
+4, 1, Grudger, .25, C, D 
+1, 4, Grudger, 4, D, C 
+1, 4, Grudger, 4, D, C 
+1, 4, Grudger, 4, D, C 
+3, 3, Grudger, 1, D, D 
+3, 3, Grudger, 1, D, D 
+3, 3, Grudger, 1, D, D 
+3, 3, Grudger, 1, D, D 
+3, 3, Grudger, 1, D, D 
+4, 1, Slow Tit For Two Tats 2, .25, C, D 
+2 , 2, Slow Tit For Two Tats 2, 1, C, C 
+2 , 2, Slow Tit For Two Tats 2, 1, C, C 
+2 , 2, Slow Tit For Two Tats 2, 1, C, C 
+2 , 2, Slow Tit For Two Tats 2, 1, C, C 
+2 , 2, Slow Tit For Two Tats 2, 1, C, C 
+2 , 2, Slow Tit For Two Tats 2, 1, C, C 
+2 , 2, Slow Tit For Two Tats 2, 1, C, C 
+2 , 2, Slow Tit For Two Tats 2, 1, C, C 
+2 , 2, Slow Tit For Two Tats 2, 1, C, C 
+1, 4, Bully, 4, D, C 
+3, 3, Bully, 1, D, D 
+4, 1, Bully, .25, C, D 
+2 , 2, Bully, 1, C, C 
+1, 4, Bully, 4, D, C 
+1, 4, Bully, 4, D, C 
+1, 4, Bully, 4, D, C 
+1, 4, Bully, 4, D, C 
+1, 4, Bully, 4, D, C 
+1, 4, Bully, 4, D, C 
+2 , 2, Cooperator, 1, C, C 
+2 , 2, Cooperator, 1, C, C 
+2 , 2, Cooperator, 1, C, C 
+2 , 2, Cooperator, 1, C, C 
+2 , 2, Cooperator, 1, C, C 
+2 , 2, Cooperator, 1, C, C 
+2 , 2, Cooperator, 1, C, C 
+2 , 2, Cooperator, 1, C, C 
+2 , 2, Cooperator, 1, C, C 
+2 , 2, Cooperator, 1, C, C 
+1, 4, Suspicious Tit For Tat, 4, D, C 
+4, 1, Suspicious Tit For Tat, .25, C, D 
+1, 4, Suspicious Tit For Tat, 4, D, C 
+4, 1, Suspicious Tit For Tat, .25, C, D 
+1, 4, Suspicious Tit For Tat, 4, D, C 
+4, 1, Suspicious Tit For Tat, .25, C, D 
+1, 4, Suspicious Tit For Tat, 4, D, C 
+4, 1, Suspicious Tit For Tat, .25, C, D 
+1, 4, Suspicious Tit For Tat, 4, D, C 
+4, 1, Suspicious Tit For Tat, .25, C, D 
+1, 4, Aggravater, 4, D, C 
+1, 4, Aggravater, 4, D, C 
+1, 4, Aggravater, 4, D, C 
+4, 1, Aggravater, .25, C, D 
+3, 3, Aggravater, 1, D, D 
+3, 3, Aggravater, 1, D, D 
+3, 3, Aggravater, 1, D, D 
+3, 3, Aggravater, 1, D, D 
+3, 3, Aggravater, 1, D, D 
+3, 3, Aggravater, 1, D, D 
+4, 1, Slow Tit For Two Tats 2, .25, C, D 
+4, 1, Slow Tit For Two Tats 2, .25, C, D 
+1, 4, Slow Tit For Two Tats 2, 4, D, C 
+1, 4, Slow Tit For Two Tats 2, 4, D, C 
+2 , 2, Slow Tit For Two Tats 2, 1, C, C 
+2 , 2, Slow Tit For Two Tats 2, 1, C, C 
+2 , 2, Slow Tit For Two Tats 2, 1, C, C 
+2 , 2, Slow Tit For Two Tats 2, 1, C, C 
+2 , 2, Slow Tit For Two Tats 2, 1, C, C 
+2 , 2, Slow Tit For Two Tats 2, 1, C, C 
+2 , 2, Cooperator, 1, C, C 
+2 , 2, Cooperator, 1, C, C 
+2 , 2, Cooperator, 1, C, C 
+2 , 2, Cooperator, 1, C, C 
+2 , 2, Cooperator, 1, C, C 
+2 , 2, Cooperator, 1, C, C 
+2 , 2, Cooperator, 1, C, C 
+2 , 2, Cooperator, 1, C, C 
+2 , 2, Cooperator, 1, C, C 
+2 , 2, Cooperator, 1, C, C 
+4, 1, Two Tits For Tat, .25, C, D 
+1, 4, Two Tits For Tat, 4, D, C 
+1, 4, Two Tits For Tat, 4, D, C 
+4, 1, Two Tits For Tat, .25, C, D 
+1, 4, Two Tits For Tat, 4, D, C 
+1, 4, Two Tits For Tat, 4, D, C 
+2 , 2, Two Tits For Tat, 1, C, C 
+2 , 2, Two Tits For Tat, 1, C, C 
+2 , 2, Two Tits For Tat, 1, C, C 
+2 , 2, Two Tits For Tat, 1, C, C 
+1, 4, Suspicious Tit For Tat, 4, D, C 
+4, 1, Suspicious Tit For Tat, .25, C, D 
+1, 4, Suspicious Tit For Tat, 4, D, C 
+4, 1, Suspicious Tit For Tat, .25, C, D 
+1, 4, Suspicious Tit For Tat, 4, D, C 
+4, 1, Suspicious Tit For Tat, .25, C, D 
+1, 4, Suspicious Tit For Tat, 4, D, C 
+4, 1, Suspicious Tit For Tat, .25, C, D 
+1, 4, Suspicious Tit For Tat, 4, D, C 
+4, 1, Suspicious Tit For Tat, .25, C, D 
+2 , 2, Sneaky Tit For Tat, 1, C, C 
+2 , 2, Sneaky Tit For Tat, 1, C, C 
+3, 3, Sneaky Tit For Tat, 1, D, D 
+1, 4, Sneaky Tit For Tat, 4, D, C 
+2 , 2, Sneaky Tit For Tat, 1, C, C 
+2 , 2, Sneaky Tit For Tat, 1, C, C 
+2 , 2, Sneaky Tit For Tat, 1, C, C 
+2 , 2, Sneaky Tit For Tat, 1, C, C 
+2 , 2, Sneaky Tit For Tat, 1, C, C 
+2 , 2, Sneaky Tit For Tat, 1, C, C 
+1, 4, Opposite Grudger, 4, D, C 
+2 , 2, Opposite Grudger, 1, C, C 
+4, 1, Opposite Grudger, .25, C, D 
+2 , 2, Opposite Grudger, 1, C, C 
+2 , 2, Opposite Grudger, 1, C, C 
+2 , 2, Opposite Grudger, 1, C, C 
+2 , 2, Opposite Grudger, 1, C, C 
+2 , 2, Opposite Grudger, 1, C, C 
+2 , 2, Opposite Grudger, 1, C, C 
+2 , 2, Opposite Grudger, 1, C, C 
+3, 3, Opposite Grudger, 1, D, D 
+3, 3, Opposite Grudger, 1, D, D 
+3, 3, Opposite Grudger, 1, D, D 
+3, 3, Opposite Grudger, 1, D, D 
+3, 3, Opposite Grudger, 1, D, D 
+3, 3, Opposite Grudger, 1, D, D 
+3, 3, Opposite Grudger, 1, D, D 
+3, 3, Opposite Grudger, 1, D, D 
+3, 3, Opposite Grudger, 1, D, D 
+1, 4, Opposite Grudger, 4, D, C 
+3, 3, Opposite Grudger, 1, D, D 
+3, 3, Opposite Grudger, 1, D, D 
+3, 3, Opposite Grudger, 1, D, D 
+3, 3, Opposite Grudger, 1, D, D 
+3, 3, Opposite Grudger, 1, D, D 
+3, 3, Opposite Grudger, 1, D, D 
+3, 3, Opposite Grudger, 1, D, D 
+3, 3, Opposite Grudger, 1, D, D 
+3, 3, Opposite Grudger, 1, D, D 
+3, 3, Opposite Grudger, 1, D, D 
+4, 1, Slow Tit For Two Tats 2, .25, C, D 
+4, 1, Slow Tit For Two Tats 2, .25, C, D 
+1, 4, Slow Tit For Two Tats 2, 4, D, C 
+1, 4, Slow Tit For Two Tats 2, 4, D, C 
+2 , 2, Slow Tit For Two Tats 2, 1, C, C 
+2 , 2, Slow Tit For Two Tats 2, 1, C, C 
+2 , 2, Slow Tit For Two Tats 2, 1, C, C 
+2 , 2, Slow Tit For Two Tats 2, 1, C, C 
+2 , 2, Slow Tit For Two Tats 2, 1, C, C 
+2 , 2, Slow Tit For Two Tats 2, 1, C, C 
+4, 1, Two Tits For Tat, .25, C, D 
+1, 4, Two Tits For Tat, 4, D, C 
+1, 4, Two Tits For Tat, 4, D, C 
+2 , 2, Two Tits For Tat, 1, C, C 
+2 , 2, Two Tits For Tat, 1, C, C 
+2 , 2, Two Tits For Tat, 1, C, C 
+2 , 2, Two Tits For Tat, 1, C, C 
+2 , 2, Two Tits For Tat, 1, C, C 
+2 , 2, Two Tits For Tat, 1, C, C 
+2 , 2, Two Tits For Tat, 1, C, C 
+1, 4, Defector, 4, D, C 
+3, 3, Defector, 1, D, D 
+3, 3, Defector, 1, D, D 
+3, 3, Defector, 1, D, D 
+3, 3, Defector, 1, D, D 
+3, 3, Defector, 1, D, D 
+3, 3, Defector, 1, D, D 
+3, 3, Defector, 1, D, D 
+3, 3, Defector, 1, D, D 
+3, 3, Defector, 1, D, D 
+1, 4, Opposite Grudger, 4, D, C 
+4, 1, Opposite Grudger, .25, C, D 
+2 , 2, Opposite Grudger, 1, C, C 
+4, 1, Opposite Grudger, .25, C, D 
+2 , 2, Opposite Grudger, 1, C, C 
+4, 1, Opposite Grudger, .25, C, D 
+2 , 2, Opposite Grudger, 1, C, C 
+4, 1, Opposite Grudger, .25, C, D 
+2 , 2, Opposite Grudger, 1, C, C 
+4, 1, Opposite Grudger, .25, C, D 
+2 , 2, Spiteful Tit For Tat, 1, C, C 
+4, 1, Spiteful Tit For Tat, .25, C, D 
+1, 4, Spiteful Tit For Tat, 4, D, C 
+4, 1, Spiteful Tit For Tat, .25, C, D 
+1, 4, Spiteful Tit For Tat, 4, D, C 
+4, 1, Spiteful Tit For Tat, .25, C, D 
+1, 4, Spiteful Tit For Tat, 4, D, C 
+4, 1, Spiteful Tit For Tat, .25, C, D 
+1, 4, Spiteful Tit For Tat, 4, D, C 
+4, 1, Spiteful Tit For Tat, .25, C, D 
+2 , 2, Tit For Tat, 1, C, C 
+4, 1, Tit For Tat, .25, C, D 
+3, 3, Tit For Tat, 1, D, D 
+3, 3, Tit For Tat, 1, D, D 
+3, 3, Tit For Tat, 1, D, D 
+3, 3, Tit For Tat, 1, D, D 
+3, 3, Tit For Tat, 1, D, D 
+3, 3, Tit For Tat, 1, D, D 
+3, 3, Tit For Tat, 1, D, D 
+3, 3, Tit For Tat, 1, D, D 
+2 , 2, Slow Tit For Two Tats 2, 1, C, C 
+4, 1, Slow Tit For Two Tats 2, .25, C, D 
+2 , 2, Slow Tit For Two Tats 2, 1, C, C 
+4, 1, Slow Tit For Two Tats 2, .25, C, D 
+2 , 2, Slow Tit For Two Tats 2, 1, C, C 
+4, 1, Slow Tit For Two Tats 2, .25, C, D 
+4, 1, Slow Tit For Two Tats 2, .25, C, D 
+3, 3, Slow Tit For Two Tats 2, 1, D, D 
+3, 3, Slow Tit For Two Tats 2, 1, D, D 
+3, 3, Slow Tit For Two Tats 2, 1, D, D 
+1, 4, Aggravater, 4, D, C 
+1, 4, Aggravater, 4, D, C 
+1, 4, Aggravater, 4, D, C 
+4, 1, Aggravater, .25, C, D 
+3, 3, Aggravater, 1, D, D 
+3, 3, Aggravater, 1, D, D 
+3, 3, Aggravater, 1, D, D 
+3, 3, Aggravater, 1, D, D 
+3, 3, Aggravater, 1, D, D 
+3, 3, Aggravater, 1, D, D 
+2 , 2, Spiteful Tit For Tat, 1, C, C 
+4, 1, Spiteful Tit For Tat, .25, C, D 
+1, 4, Spiteful Tit For Tat, 4, D, C 
+4, 1, Spiteful Tit For Tat, .25, C, D 
+1, 4, Spiteful Tit For Tat, 4, D, C 
+4, 1, Spiteful Tit For Tat, .25, C, D 
+1, 4, Spiteful Tit For Tat, 4, D, C 
+4, 1, Spiteful Tit For Tat, .25, C, D 
+1, 4, Spiteful Tit For Tat, 4, D, C 
+4, 1, Spiteful Tit For Tat, .25, C, D 
+2 , 2, Tit For Tat, 1, C, C 
+4, 1, Tit For Tat, .25, C, D 
+1, 4, Tit For Tat, 4, D, C 
+4, 1, Tit For Tat, .25, C, D 
+1, 4, Tit For Tat, 4, D, C 
+4, 1, Tit For Tat, .25, C, D 
+1, 4, Tit For Tat, 4, D, C 
+4, 1, Tit For Tat, .25, C, D 
+1, 4, Tit For Tat, 4, D, C 
+4, 1, Tit For Tat, .25, C, D 
+1, 4, Suspicious Tit For Tat, 4, D, C 
+4, 1, Suspicious Tit For Tat, .25, C, D 
+3, 3, Suspicious Tit For Tat, 1, D, D 
+3, 3, Suspicious Tit For Tat, 1, D, D 
+3, 3, Suspicious Tit For Tat, 1, D, D 
+3, 3, Suspicious Tit For Tat, 1, D, D 
+3, 3, Suspicious Tit For Tat, 1, D, D 
+3, 3, Suspicious Tit For Tat, 1, D, D 
+3, 3, Suspicious Tit For Tat, 1, D, D 
+3, 3, Suspicious Tit For Tat, 1, D, D 
+2 , 2, Two Tits For Tat, 1, C, C 
+4, 1, Two Tits For Tat, .25, C, D 
+1, 4, Two Tits For Tat, 4, D, C 
+3, 3, Two Tits For Tat, 1, D, D 
+1, 4, Two Tits For Tat, 4, D, C 
+3, 3, Two Tits For Tat, 1, D, D 
+1, 4, Two Tits For Tat, 4, D, C 
+3, 3, Two Tits For Tat, 1, D, D 
+1, 4, Two Tits For Tat, 4, D, C 
+3, 3, Two Tits For Tat, 1, D, D 
+2 , 2, Defector, 1, C, C 
+4, 1, Defector, .25, C, D 
+1, 4, Defector, 4, D, C 
+3, 3, Defector, 1, D, D 
+1, 4, Defector, 4, D, C 
+3, 3, Defector, 1, D, D 
+1, 4, Defector, 4, D, C 
+3, 3, Defector, 1, D, D 
+1, 4, Defector, 4, D, C 
+3, 3, Defector, 1, D, D 
+2 , 2, Defector, 1, C, C 
+4, 1, Defector, .25, C, D 
+1, 4, Defector, 4, D, C 
+3, 3, Defector, 1, D, D 
+1, 4, Defector, 4, D, C 
+3, 3, Defector, 1, D, D 
+1, 4, Defector, 4, D, C 
+3, 3, Defector, 1, D, D 
+1, 4, Defector, 4, D, C 
+3, 3, Defector, 1, D, D 
+2 , 2, Opposite Grudger, 1, C, C 
+4, 1, Opposite Grudger, .25, C, D 
+1, 4, Opposite Grudger, 4, D, C 
+3, 3, Opposite Grudger, 1, D, D 
+1, 4, Opposite Grudger, 4, D, C 
+3, 3, Opposite Grudger, 1, D, D 
+1, 4, Opposite Grudger, 4, D, C 
+3, 3, Opposite Grudger, 1, D, D 
+1, 4, Opposite Grudger, 4, D, C 
+3, 3, Opposite Grudger, 1, D, D 
+2 , 2, Opposite Grudger, 1, C, C 
+4, 1, Opposite Grudger, .25, C, D 
+1, 4, Opposite Grudger, 4, D, C 
+3, 3, Opposite Grudger, 1, D, D 
+1, 4, Opposite Grudger, 4, D, C 
+3, 3, Opposite Grudger, 1, D, D 
+1, 4, Opposite Grudger, 4, D, C 
+3, 3, Opposite Grudger, 1, D, D 
+1, 4, Opposite Grudger, 4, D, C 
+3, 3, Opposite Grudger, 1, D, D 
+2 , 2, Opposite Grudger, 1, C, C 
+4, 1, Opposite Grudger, .25, C, D 
+1, 4, Opposite Grudger, 4, D, C 
+3, 3, Opposite Grudger, 1, D, D 
+1, 4, Opposite Grudger, 4, D, C 
+3, 3, Opposite Grudger, 1, D, D 
+1, 4, Opposite Grudger, 4, D, C 
+3, 3, Opposite Grudger, 1, D, D 
+1, 4, Opposite Grudger, 4, D, C 
+3, 3, Opposite Grudger, 1, D, D 
+2 , 2, Two Tits For Tat, 1, C, C 
+4, 1, Two Tits For Tat, .25, C, D 
+3, 3, Two Tits For Tat, 1, D, D 
+3, 3, Two Tits For Tat, 1, D, D 
+3, 3, Two Tits For Tat, 1, D, D 
+3, 3, Two Tits For Tat, 1, D, D 
+3, 3, Two Tits For Tat, 1, D, D 
+3, 3, Two Tits For Tat, 1, D, D 
+3, 3, Two Tits For Tat, 1, D, D 
+3, 3, Two Tits For Tat, 1, D, D 
+2 , 2, Defector, 1, C, C 
+4, 1, Defector, .25, C, D 
+3, 3, Defector, 1, D, D 
+3, 3, Defector, 1, D, D 
+3, 3, Defector, 1, D, D 
+3, 3, Defector, 1, D, D 
+3, 3, Defector, 1, D, D 
+3, 3, Defector, 1, D, D 
+3, 3, Defector, 1, D, D 
+3, 3, Defector, 1, D, D 
+2 , 2, Inverse, 1, C, C 
+4, 1, Inverse, .25, C, D 
+1, 4, Inverse, 4, D, C 
+4, 1, Inverse, .25, C, D 
+1, 4, Inverse, 4, D, C 
+4, 1, Inverse, .25, C, D 
+1, 4, Inverse, 4, D, C 
+4, 1, Inverse, .25, C, D 
+1, 4, Inverse, 4, D, C 
+3, 3, Inverse, 1, D, D 
+2 , 2, Defector, 1, C, C 
+4, 1, Defector, .25, C, D 
+1, 4, Defector, 4, D, C 
+4, 1, Defector, .25, C, D 
+1, 4, Defector, 4, D, C 
+4, 1, Defector, .25, C, D 
+1, 4, Defector, 4, D, C 
+4, 1, Defector, .25, C, D 
+1, 4, Defector, 4, D, C 
+3, 3, Defector, 1, D, D 
+2 , 2, Grudger, 1, C, C 
+4, 1, Grudger, .25, C, D 
+1, 4, Grudger, 4, D, C 
+4, 1, Grudger, .25, C, D 
+1, 4, Grudger, 4, D, C 
+4, 1, Grudger, .25, C, D 
+1, 4, Grudger, 4, D, C 
+4, 1, Grudger, .25, C, D 
+1, 4, Grudger, 4, D, C 
+3, 3, Grudger, 1, D, D 
+2 , 2, Grudger, 1, C, C 
+2 , 2, Grudger, 1, C, C 
+2 , 2, Grudger, 1, C, C 
+4, 1, Grudger, .25, C, D 
+1, 4, Grudger, 4, D, C 
+1, 4, Grudger, 4, D, C 
+1, 4, Grudger, 4, D, C 
+1, 4, Grudger, 4, D, C 
+1, 4, Grudger, 4, D, C 
+1, 4, Grudger, 4, D, C 
+2 , 2, Hard Prober, 1, C, C 
+2 , 2, Hard Prober, 1, C, C 
+2 , 2, Hard Prober, 1, C, C 
+4, 1, Hard Prober, .25, C, D 
+1, 4, Hard Prober, 4, D, C 
+1, 4, Hard Prober, 4, D, C 
+1, 4, Hard Prober, 4, D, C 
+1, 4, Hard Prober, 4, D, C 
+1, 4, Hard Prober, 4, D, C 
+1, 4, Hard Prober, 4, D, C 
+2 , 2, Handshake, 1, C, C 
+1, 4, Handshake, 4, D, C 
+1, 4, Handshake, 4, D, C 
+1, 4, Handshake, 4, D, C 
+1, 4, Handshake, 4, D, C 
+1, 4, Handshake, 4, D, C 
+1, 4, Handshake, 4, D, C 
+1, 4, Handshake, 4, D, C 
+1, 4, Handshake, 4, D, C 
+1, 4, Handshake, 4, D, C 
+2 , 2, Inverse, 1, C, C 
+2 , 2, Inverse, 1, C, C 
+2 , 2, Inverse, 1, C, C 
+4, 1, Inverse, .25, C, D 
+1, 4, Inverse, 4, D, C 
+1, 4, Inverse, 4, D, C 
+1, 4, Inverse, 4, D, C 
+2 , 2, Inverse, 1, C, C 
+2 , 2, Inverse, 1, C, C 
+2 , 2, Inverse, 1, C, C 
+1, 4, Aggravater, 4, D, C 
+3, 3, Aggravater, 1, D, D 
+1, 4, Aggravater, 4, D, C 
+1, 4, Aggravater, 4, D, C 
+1, 4, Aggravater, 4, D, C 
+1, 4, Aggravater, 4, D, C 
+1, 4, Aggravater, 4, D, C 
+1, 4, Aggravater, 4, D, C 
+1, 4, Aggravater, 4, D, C 
+1, 4, Aggravater, 4, D, C 
+2 , 2, Cooperator, 1, C, C 
+4, 1, Cooperator, .25, C, D 
+2 , 2, Cooperator, 1, C, C 
+2 , 2, Cooperator, 1, C, C 
+2 , 2, Cooperator, 1, C, C 
+2 , 2, Cooperator, 1, C, C 
+2 , 2, Cooperator, 1, C, C 
+2 , 2, Cooperator, 1, C, C 
+2 , 2, Cooperator, 1, C, C 
+2 , 2, Cooperator, 1, C, C 
+2 , 2, Grudger, 1, C, C 
+4, 1, Grudger, .25, C, D 
+2 , 2, Grudger, 1, C, C 
+2 , 2, Grudger, 1, C, C 
+2 , 2, Grudger, 1, C, C 
+2 , 2, Grudger, 1, C, C 
+2 , 2, Grudger, 1, C, C 
+2 , 2, Grudger, 1, C, C 
+2 , 2, Grudger, 1, C, C 
+2 , 2, Grudger, 1, C, C 
+2 , 2, Cooperator, 1, C, C 
+2 , 2, Cooperator, 1, C, C 
+2 , 2, Cooperator, 1, C, C 
+2 , 2, Cooperator, 1, C, C 
+2 , 2, Cooperator, 1, C, C 
+2 , 2, Cooperator, 1, C, C 
+2 , 2, Cooperator, 1, C, C 
+2 , 2, Cooperator, 1, C, C 
+2 , 2, Cooperator, 1, C, C 
+2 , 2, Cooperator, 1, C, C 
+1, 4, Aggravater, 4, D, C 
+1, 4, Aggravater, 4, D, C 
+1, 4, Aggravater, 4, D, C 
+2 , 2, Aggravater, 1, C, C 
+2 , 2, Aggravater, 1, C, C 
+2 , 2, Aggravater, 1, C, C 
+2 , 2, Aggravater, 1, C, C 
+2 , 2, Aggravater, 1, C, C 
+2 , 2, Aggravater, 1, C, C 
+2 , 2, Aggravater, 1, C, C 
+2 , 2, Inverse, 1, C, C 
+4, 1, Inverse, .25, C, D 
+1, 4, Inverse, 4, D, C 
+2 , 2, Inverse, 1, C, C 
+2 , 2, Inverse, 1, C, C 
+4, 1, Inverse, .25, C, D 
+1, 4, Inverse, 4, D, C 
+1, 4, Inverse, 4, D, C 
+2 , 2, Inverse, 1, C, C 
+2 , 2, Inverse, 1, C, C 
+2 , 2, Aggravater, 1, C, C 
+4, 1, Aggravater, .25, C, D 
+1, 4, Aggravater, 4, D, C 
+2 , 2, Aggravater, 1, C, C 
+2 , 2, Aggravater, 1, C, C 
+4, 1, Aggravater, .25, C, D 
+1, 4, Aggravater, 4, D, C 
+1, 4, Aggravater, 4, D, C 
+2 , 2, Aggravater, 1, C, C 
+2 , 2, Aggravater, 1, C, C 
+2 , 2, Aggravater, 1, C, C 
+4, 1, Aggravater, .25, C, D 
+1, 4, Aggravater, 4, D, C 
+2 , 2, Aggravater, 1, C, C 
+2 , 2, Aggravater, 1, C, C 
+4, 1, Aggravater, .25, C, D 
+1, 4, Aggravater, 4, D, C 
+1, 4, Aggravater, 4, D, C 
+2 , 2, Aggravater, 1, C, C 
+2 , 2, Aggravater, 1, C, C 
+2 , 2, Grudger, 1, C, C 
+4, 1, Grudger, .25, C, D 
+1, 4, Grudger, 4, D, C 
+2 , 2, Grudger, 1, C, C 
+2 , 2, Grudger, 1, C, C 
+4, 1, Grudger, .25, C, D 
+1, 4, Grudger, 4, D, C 
+1, 4, Grudger, 4, D, C 
+2 , 2, Grudger, 1, C, C 
+2 , 2, Grudger, 1, C, C 
+2 , 2, Cooperator, 1, C, C 
+4, 1, Cooperator, .25, C, D 
+2 , 2, Cooperator, 1, C, C 
+2 , 2, Cooperator, 1, C, C 
+2 , 2, Cooperator, 1, C, C 
+2 , 2, Cooperator, 1, C, C 
+2 , 2, Cooperator, 1, C, C 
+2 , 2, Cooperator, 1, C, C 
+2 , 2, Cooperator, 1, C, C 
+2 , 2, Cooperator, 1, C, C 
+2 , 2, Spiteful Tit For Tat, 1, C, C 
+4, 1, Spiteful Tit For Tat, .25, C, D 
+1, 4, Spiteful Tit For Tat, 4, D, C 
+2 , 2, Spiteful Tit For Tat, 1, C, C 
+2 , 2, Spiteful Tit For Tat, 1, C, C 
+2 , 2, Spiteful Tit For Tat, 1, C, C 
+2 , 2, Spiteful Tit For Tat, 1, C, C 
+2 , 2, Spiteful Tit For Tat, 1, C, C 
+2 , 2, Spiteful Tit For Tat, 1, C, C 
+2 , 2, Spiteful Tit For Tat, 1, C, C 
+2 , 2, Inverse, 1, C, C 
+4, 1, Inverse, .25, C, D 
+1, 4, Inverse, 4, D, C 
+2 , 2, Inverse, 1, C, C 
+2 , 2, Inverse, 1, C, C 
+2 , 2, Inverse, 1, C, C 
+2 , 2, Inverse, 1, C, C 
+2 , 2, Inverse, 1, C, C 
+2 , 2, Inverse, 1, C, C 
+2 , 2, Inverse, 1, C, C 
+2 , 2, Handshake, 1, C, C 
+3, 3, Handshake, 1, D, D 
+2 , 2, Handshake, 1, C, C 
+2 , 2, Handshake, 1, C, C 
+2 , 2, Handshake, 1, C, C 
+2 , 2, Handshake, 1, C, C 
+4, 1, Handshake, .25, C, D 
+2 , 2, Handshake, 1, C, C 
+2 , 2, Handshake, 1, C, C 
+2 , 2, Handshake, 1, C, C 
+1, 4, Hard Prober, 4, D, C 
+1, 4, Hard Prober, 4, D, C 
+2 , 2, Hard Prober, 1, C, C 
+2 , 2, Hard Prober, 1, C, C 
+1, 4, Hard Prober, 4, D, C 
+1, 4, Hard Prober, 4, D, C 
+1, 4, Hard Prober, 4, D, C 
+1, 4, Hard Prober, 4, D, C 
+1, 4, Hard Prober, 4, D, C 
+1, 4, Hard Prober, 4, D, C 
+2 , 2, Sneaky Tit For Tat, 1, C, C 
+2 , 2, Sneaky Tit For Tat, 1, C, C 
+3, 3, Sneaky Tit For Tat, 1, D, D 
+1, 4, Sneaky Tit For Tat, 4, D, C 
+2 , 2, Sneaky Tit For Tat, 1, C, C 
+2 , 2, Sneaky Tit For Tat, 1, C, C 
+2 , 2, Sneaky Tit For Tat, 1, C, C 
+2 , 2, Sneaky Tit For Tat, 1, C, C 
+2 , 2, Sneaky Tit For Tat, 1, C, C 
+2 , 2, Sneaky Tit For Tat, 1, C, C 
+2 , 2, Spiteful Tit For Tat, 1, C, C 
+2 , 2, Spiteful Tit For Tat, 1, C, C 
+3, 3, Spiteful Tit For Tat, 1, D, D 
+1, 4, Spiteful Tit For Tat, 4, D, C 
+2 , 2, Spiteful Tit For Tat, 1, C, C 
+2 , 2, Spiteful Tit For Tat, 1, C, C 
+2 , 2, Spiteful Tit For Tat, 1, C, C 
+2 , 2, Spiteful Tit For Tat, 1, C, C 
+2 , 2, Spiteful Tit For Tat, 1, C, C 
+2 , 2, Spiteful Tit For Tat, 1, C, C 
+2 , 2, Spiteful Tit For Tat, 1, C, C 
+2 , 2, Spiteful Tit For Tat, 1, C, C 
+3, 3, Spiteful Tit For Tat, 1, D, D 
+1, 4, Spiteful Tit For Tat, 4, D, C 
+2 , 2, Spiteful Tit For Tat, 1, C, C 
+2 , 2, Spiteful Tit For Tat, 1, C, C 
+2 , 2, Spiteful Tit For Tat, 1, C, C 
+2 , 2, Spiteful Tit For Tat, 1, C, C 
+2 , 2, Spiteful Tit For Tat, 1, C, C 
+2 , 2, Spiteful Tit For Tat, 1, C, C 
+2 , 2, Tit For Tat, 1, C, C 
+4, 1, Tit For Tat, .25, C, D 
+1, 4, Tit For Tat, 4, D, C 
+4, 1, Tit For Tat, .25, C, D 
+1, 4, Tit For Tat, 4, D, C 
+2 , 2, Tit For Tat, 1, C, C 
+4, 1, Tit For Tat, .25, C, D 
+3, 3, Tit For Tat, 1, D, D 
+3, 3, Tit For Tat, 1, D, D 
+1, 4, Tit For Tat, 4, D, C 
+2 , 2, Spiteful Tit For Tat, 1, C, C 
+2 , 2, Spiteful Tit For Tat, 1, C, C 
+2 , 2, Spiteful Tit For Tat, 1, C, C 
+4, 1, Spiteful Tit For Tat, .25, C, D 
+1, 4, Spiteful Tit For Tat, 4, D, C 
+2 , 2, Spiteful Tit For Tat, 1, C, C 
+2 , 2, Spiteful Tit For Tat, 1, C, C 
+2 , 2, Spiteful Tit For Tat, 1, C, C 
+4, 1, Spiteful Tit For Tat, .25, C, D 
+1, 4, Spiteful Tit For Tat, 4, D, C 
+2 , 2, Grudger, 1, C, C 
+2 , 2, Grudger, 1, C, C 
+2 , 2, Grudger, 1, C, C 
+4, 1, Grudger, .25, C, D 
+1, 4, Grudger, 4, D, C 
+2 , 2, Grudger, 1, C, C 
+2 , 2, Grudger, 1, C, C 
+2 , 2, Grudger, 1, C, C 
+4, 1, Grudger, .25, C, D 
+1, 4, Grudger, 4, D, C 
+2 , 2, Inverse, 1, C, C 
+4, 1, Inverse, .25, C, D 
+1, 4, Inverse, 4, D, C 
+3, 3, Inverse, 1, D, D 
+1, 4, Inverse, 4, D, C 
+3, 3, Inverse, 1, D, D 
+1, 4, Inverse, 4, D, C 
+3, 3, Inverse, 1, D, D 
+1, 4, Inverse, 4, D, C 
+3, 3, Inverse, 1, D, D 
+2 , 2, Two Tits For Tat, 1, C, C 
+4, 1, Two Tits For Tat, .25, C, D 
+1, 4, Two Tits For Tat, 4, D, C 
+3, 3, Two Tits For Tat, 1, D, D 
+1, 4, Two Tits For Tat, 4, D, C 
+3, 3, Two Tits For Tat, 1, D, D 
+1, 4, Two Tits For Tat, 4, D, C 
+3, 3, Two Tits For Tat, 1, D, D 
+1, 4, Two Tits For Tat, 4, D, C 
+3, 3, Two Tits For Tat, 1, D, D 
+2 , 2, Opposite Grudger, 1, C, C 
+4, 1, Opposite Grudger, .25, C, D 
+1, 4, Opposite Grudger, 4, D, C 
+3, 3, Opposite Grudger, 1, D, D 
+1, 4, Opposite Grudger, 4, D, C 
+3, 3, Opposite Grudger, 1, D, D 
+1, 4, Opposite Grudger, 4, D, C 
+3, 3, Opposite Grudger, 1, D, D 
+1, 4, Opposite Grudger, 4, D, C 
+3, 3, Opposite Grudger, 1, D, D 
+2 , 2, Slow Tit For Two Tats 2, 1, C, C 
+4, 1, Slow Tit For Two Tats 2, .25, C, D 
+4, 1, Slow Tit For Two Tats 2, .25, C, D 
+3, 3, Slow Tit For Two Tats 2, 1, D, D 
+3, 3, Slow Tit For Two Tats 2, 1, D, D 
+3, 3, Slow Tit For Two Tats 2, 1, D, D 
+3, 3, Slow Tit For Two Tats 2, 1, D, D 
+3, 3, Slow Tit For Two Tats 2, 1, D, D 
+3, 3, Slow Tit For Two Tats 2, 1, D, D 
+3, 3, Slow Tit For Two Tats 2, 1, D, D 
+2 , 2, Handshake, 1, C, C 
+4, 1, Handshake, .25, C, D 
+4, 1, Handshake, .25, C, D 
+3, 3, Handshake, 1, D, D 
+3, 3, Handshake, 1, D, D 
+3, 3, Handshake, 1, D, D 
+3, 3, Handshake, 1, D, D 
+3, 3, Handshake, 1, D, D 
+3, 3, Handshake, 1, D, D 
+3, 3, Handshake, 1, D, D 
+2 , 2, Handshake, 1, C, C 
+1, 4, Handshake, 4, D, C 
+3, 3, Handshake, 1, D, D 
+1, 4, Handshake, 4, D, C 
+1, 4, Handshake, 4, D, C 
+1, 4, Handshake, 4, D, C 
+1, 4, Handshake, 4, D, C 
+1, 4, Handshake, 4, D, C 
+1, 4, Handshake, 4, D, C 
+1, 4, Handshake, 4, D, C 
+2 , 2, Spiteful Tit For Tat, 1, C, C 
+4, 1, Spiteful Tit For Tat, .25, C, D 
+3, 3, Spiteful Tit For Tat, 1, D, D 
+3, 3, Spiteful Tit For Tat, 1, D, D 
+3, 3, Spiteful Tit For Tat, 1, D, D 
+3, 3, Spiteful Tit For Tat, 1, D, D 
+3, 3, Spiteful Tit For Tat, 1, D, D 
+3, 3, Spiteful Tit For Tat, 1, D, D 
+3, 3, Spiteful Tit For Tat, 1, D, D 
+3, 3, Spiteful Tit For Tat, 1, D, D 
+2 , 2, Defector, 1, C, C 
+4, 1, Defector, .25, C, D 
+3, 3, Defector, 1, D, D 
+3, 3, Defector, 1, D, D 
+3, 3, Defector, 1, D, D 
+3, 3, Defector, 1, D, D 
+3, 3, Defector, 1, D, D 
+3, 3, Defector, 1, D, D 
+3, 3, Defector, 1, D, D 
+3, 3, Defector, 1, D, D 
+2 , 2, Sneaky Tit For Tat, 1, C, C 
+4, 1, Sneaky Tit For Tat, .25, C, D 
+1, 4, Sneaky Tit For Tat, 4, D, C 
+2 , 2, Sneaky Tit For Tat, 1, C, C 
+2 , 2, Sneaky Tit For Tat, 1, C, C 
+2 , 2, Sneaky Tit For Tat, 1, C, C 
+4, 1, Sneaky Tit For Tat, .25, C, D 
+1, 4, Sneaky Tit For Tat, 4, D, C 
+2 , 2, Sneaky Tit For Tat, 1, C, C 
+2 , 2, Sneaky Tit For Tat, 1, C, C 
+2 , 2, Sneaky Tit For Tat, 1, C, C 
+4, 1, Sneaky Tit For Tat, .25, C, D 
+3, 3, Sneaky Tit For Tat, 1, D, D 
+3, 3, Sneaky Tit For Tat, 1, D, D 
+4, 1, Sneaky Tit For Tat, .25, C, D 
+4, 1, Sneaky Tit For Tat, .25, C, D 
+3, 3, Sneaky Tit For Tat, 1, D, D 
+3, 3, Sneaky Tit For Tat, 1, D, D 
+4, 1, Sneaky Tit For Tat, .25, C, D 
+4, 1, Sneaky Tit For Tat, .25, C, D 
+2 , 2, Grudger, 1, C, C 
+2 , 2, Grudger, 1, C, C 
+4, 1, Grudger, .25, C, D 
+1, 4, Grudger, 4, D, C 
+1, 4, Grudger, 4, D, C 
+1, 4, Grudger, 4, D, C 
+1, 4, Grudger, 4, D, C 
+1, 4, Grudger, 4, D, C 
+1, 4, Grudger, 4, D, C 
+1, 4, Grudger, 4, D, C 
+1, 4, Suspicious Tit For Tat, 4, D, C 
+4, 1, Suspicious Tit For Tat, .25, C, D 
+3, 3, Suspicious Tit For Tat, 1, D, D 
+3, 3, Suspicious Tit For Tat, 1, D, D 
+3, 3, Suspicious Tit For Tat, 1, D, D 
+3, 3, Suspicious Tit For Tat, 1, D, D 
+3, 3, Suspicious Tit For Tat, 1, D, D 
+3, 3, Suspicious Tit For Tat, 1, D, D 
+3, 3, Suspicious Tit For Tat, 1, D, D 
+3, 3, Suspicious Tit For Tat, 1, D, D 
+2 , 2, Spiteful Tit For Tat, 1, C, C 
+4, 1, Spiteful Tit For Tat, .25, C, D 
+1, 4, Spiteful Tit For Tat, 4, D, C 
+2 , 2, Spiteful Tit For Tat, 1, C, C 
+2 , 2, Spiteful Tit For Tat, 1, C, C 
+2 , 2, Spiteful Tit For Tat, 1, C, C 
+2 , 2, Spiteful Tit For Tat, 1, C, C 
+2 , 2, Spiteful Tit For Tat, 1, C, C 
+2 , 2, Spiteful Tit For Tat, 1, C, C 
+2 , 2, Spiteful Tit For Tat, 1, C, C 
+1, 4, Suspicious Tit For Tat, 4, D, C 
+4, 1, Suspicious Tit For Tat, .25, C, D 
+1, 4, Suspicious Tit For Tat, 4, D, C 
+2 , 2, Suspicious Tit For Tat, 1, C, C 
+2 , 2, Suspicious Tit For Tat, 1, C, C 
+2 , 2, Suspicious Tit For Tat, 1, C, C 
+2 , 2, Suspicious Tit For Tat, 1, C, C 
+2 , 2, Suspicious Tit For Tat, 1, C, C 
+2 , 2, Suspicious Tit For Tat, 1, C, C 
+2 , 2, Suspicious Tit For Tat, 1, C, C 
+1, 4, Hard Prober, 4, D, C 
+3, 3, Hard Prober, 1, D, D 
+2 , 2, Hard Prober, 1, C, C 
+4, 1, Hard Prober, .25, C, D 
+1, 4, Hard Prober, 4, D, C 
+2 , 2, Hard Prober, 1, C, C 
+2 , 2, Hard Prober, 1, C, C 
+2 , 2, Hard Prober, 1, C, C 
+2 , 2, Hard Prober, 1, C, C 
+2 , 2, Hard Prober, 1, C, C 
+1, 4, Opposite Grudger, 4, D, C 
+4, 1, Opposite Grudger, .25, C, D 
+4, 1, Opposite Grudger, .25, C, D 
+4, 1, Opposite Grudger, .25, C, D 
+4, 1, Opposite Grudger, .25, C, D 
+4, 1, Opposite Grudger, .25, C, D 
+4, 1, Opposite Grudger, .25, C, D 
+4, 1, Opposite Grudger, .25, C, D 
+4, 1, Opposite Grudger, .25, C, D 
+4, 1, Opposite Grudger, .25, C, D 
+2 , 2, Sneaky Tit For Tat, 1, C, C 
+4, 1, Sneaky Tit For Tat, .25, C, D 
+3, 3, Sneaky Tit For Tat, 1, D, D 
+3, 3, Sneaky Tit For Tat, 1, D, D 
+4, 1, Sneaky Tit For Tat, .25, C, D 
+4, 1, Sneaky Tit For Tat, .25, C, D 
+3, 3, Sneaky Tit For Tat, 1, D, D 
+3, 3, Sneaky Tit For Tat, 1, D, D 
+4, 1, Sneaky Tit For Tat, .25, C, D 
+4, 1, Sneaky Tit For Tat, .25, C, D 
+2 , 2, Handshake, 1, C, C 
+3, 3, Handshake, 1, D, D 
+4, 1, Handshake, .25, C, D 
+4, 1, Handshake, .25, C, D 
+4, 1, Handshake, .25, C, D 
+4, 1, Handshake, .25, C, D 
+4, 1, Handshake, .25, C, D 
+4, 1, Handshake, .25, C, D 
+4, 1, Handshake, .25, C, D 
+4, 1, Handshake, .25, C, D 
+4, 1, Tit For Tat, .25, C, D 
+1, 4, Tit For Tat, 4, D, C 
+2 , 2, Tit For Tat, 1, C, C 
+2 , 2, Tit For Tat, 1, C, C 
+2 , 2, Tit For Tat, 1, C, C 
+2 , 2, Tit For Tat, 1, C, C 
+2 , 2, Tit For Tat, 1, C, C 
+2 , 2, Tit For Tat, 1, C, C 
+2 , 2, Tit For Tat, 1, C, C 
+2 , 2, Tit For Tat, 1, C, C 
+2 , 2, Two Tits For Tat, 1, C, C 
+4, 1, Two Tits For Tat, .25, C, D 
+3, 3, Two Tits For Tat, 1, D, D 
+3, 3, Two Tits For Tat, 1, D, D 
+3, 3, Two Tits For Tat, 1, D, D 
+3, 3, Two Tits For Tat, 1, D, D 
+3, 3, Two Tits For Tat, 1, D, D 
+3, 3, Two Tits For Tat, 1, D, D 
+3, 3, Two Tits For Tat, 1, D, D 
+3, 3, Two Tits For Tat, 1, D, D 
+1, 4, Defector, 4, D, C 
+3, 3, Defector, 1, D, D 
+3, 3, Defector, 1, D, D 
+3, 3, Defector, 1, D, D 
+3, 3, Defector, 1, D, D 
+3, 3, Defector, 1, D, D 
+3, 3, Defector, 1, D, D 
+3, 3, Defector, 1, D, D 
+3, 3, Defector, 1, D, D 
+3, 3, Defector, 1, D, D 
+2 , 2, Inverse, 1, C, C 
+4, 1, Inverse, .25, C, D 
+3, 3, Inverse, 1, D, D 
+3, 3, Inverse, 1, D, D 
+3, 3, Inverse, 1, D, D 
+3, 3, Inverse, 1, D, D 
+3, 3, Inverse, 1, D, D 
+3, 3, Inverse, 1, D, D 
+3, 3, Inverse, 1, D, D 
+3, 3, Inverse, 1, D, D 
+3, 3, Bully, 1, D, D 
+4, 1, Bully, .25, C, D 
+4, 1, Bully, .25, C, D 
+4, 1, Bully, .25, C, D 
+4, 1, Bully, .25, C, D 
+4, 1, Bully, .25, C, D 
+4, 1, Bully, .25, C, D 
+4, 1, Bully, .25, C, D 
+4, 1, Bully, .25, C, D 
+4, 1, Bully, .25, C, D 
+3, 3, Opposite Grudger, 1, D, D 
+1, 4, Opposite Grudger, 4, D, C 
+2 , 2, Opposite Grudger, 1, C, C 
+2 , 2, Opposite Grudger, 1, C, C 
+2 , 2, Opposite Grudger, 1, C, C 
+2 , 2, Opposite Grudger, 1, C, C 
+2 , 2, Opposite Grudger, 1, C, C 
+2 , 2, Opposite Grudger, 1, C, C 
+2 , 2, Opposite Grudger, 1, C, C 
+2 , 2, Opposite Grudger, 1, C, C 
+2 , 2, Sneaky Tit For Tat, 1, C, C 
+4, 1, Sneaky Tit For Tat, .25, C, D 
+3, 3, Sneaky Tit For Tat, 1, D, D 
+3, 3, Sneaky Tit For Tat, 1, D, D 
+4, 1, Sneaky Tit For Tat, .25, C, D 
+4, 1, Sneaky Tit For Tat, .25, C, D 
+3, 3, Sneaky Tit For Tat, 1, D, D 
+3, 3, Sneaky Tit For Tat, 1, D, D 
+4, 1, Sneaky Tit For Tat, .25, C, D 
+4, 1, Sneaky Tit For Tat, .25, C, D 
+4, 1, Two Tits For Tat, .25, C, D 
+3, 3, Two Tits For Tat, 1, D, D 
+3, 3, Two Tits For Tat, 1, D, D 
+3, 3, Two Tits For Tat, 1, D, D 
+3, 3, Two Tits For Tat, 1, D, D 
+3, 3, Two Tits For Tat, 1, D, D 
+3, 3, Two Tits For Tat, 1, D, D 
+3, 3, Two Tits For Tat, 1, D, D 
+3, 3, Two Tits For Tat, 1, D, D 
+3, 3, Two Tits For Tat, 1, D, D 
+2 , 2, Grudger, 1, C, C 
+4, 1, Grudger, .25, C, D 
+1, 4, Grudger, 4, D, C 
+1, 4, Grudger, 4, D, C 
+1, 4, Grudger, 4, D, C 
+1, 4, Grudger, 4, D, C 
+1, 4, Grudger, 4, D, C 
+1, 4, Grudger, 4, D, C 
+1, 4, Grudger, 4, D, C 
+1, 4, Grudger, 4, D, C 
+3, 3, Aggravater, 1, D, D 
+3, 3, Aggravater, 1, D, D 
+3, 3, Aggravater, 1, D, D 
+3, 3, Aggravater, 1, D, D 
+3, 3, Aggravater, 1, D, D 
+3, 3, Aggravater, 1, D, D 
+3, 3, Aggravater, 1, D, D 
+3, 3, Aggravater, 1, D, D 
+3, 3, Aggravater, 1, D, D 
+3, 3, Aggravater, 1, D, D 
+3, 3, Defector, 1, D, D 
+3, 3, Defector, 1, D, D 
+3, 3, Defector, 1, D, D 
+3, 3, Defector, 1, D, D 
+3, 3, Defector, 1, D, D 
+3, 3, Defector, 1, D, D 
+3, 3, Defector, 1, D, D 
+3, 3, Defector, 1, D, D 
+3, 3, Defector, 1, D, D 
+3, 3, Defector, 1, D, D 
+4, 1, Cooperator, .25, C, D 
+2 , 2, Cooperator, 1, C, C 
+4, 1, Cooperator, .25, C, D 
+2 , 2, Cooperator, 1, C, C 
+4, 1, Cooperator, .25, C, D 
+2 , 2, Cooperator, 1, C, C 
+4, 1, Cooperator, .25, C, D 
+2 , 2, Cooperator, 1, C, C 
+4, 1, Cooperator, .25, C, D 
+2 , 2, Cooperator, 1, C, C 
+4, 1, Grudger, .25, C, D 
+2 , 2, Grudger, 1, C, C 
+4, 1, Grudger, .25, C, D 
+2 , 2, Grudger, 1, C, C 
+4, 1, Grudger, .25, C, D 
+2 , 2, Grudger, 1, C, C 
+4, 1, Grudger, .25, C, D 
+2 , 2, Grudger, 1, C, C 
+4, 1, Grudger, .25, C, D 
+2 , 2, Grudger, 1, C, C 
+3, 3, Suspicious Tit For Tat, 1, D, D 
+1, 4, Suspicious Tit For Tat, 4, D, C 
+4, 1, Suspicious Tit For Tat, .25, C, D 
+1, 4, Suspicious Tit For Tat, 4, D, C 
+2 , 2, Suspicious Tit For Tat, 1, C, C 
+2 , 2, Suspicious Tit For Tat, 1, C, C 
+2 , 2, Suspicious Tit For Tat, 1, C, C 
+2 , 2, Suspicious Tit For Tat, 1, C, C 
+2 , 2, Suspicious Tit For Tat, 1, C, C 
+2 , 2, Suspicious Tit For Tat, 1, C, C 
+3, 3, Inverse, 1, D, D 
+1, 4, Inverse, 4, D, C 
+4, 1, Inverse, .25, C, D 
+1, 4, Inverse, 4, D, C 
+2 , 2, Inverse, 1, C, C 
+2 , 2, Inverse, 1, C, C 
+2 , 2, Inverse, 1, C, C 
+2 , 2, Inverse, 1, C, C 
+2 , 2, Inverse, 1, C, C 
+2 , 2, Inverse, 1, C, C 
+3, 3, Defector, 1, D, D 
+1, 4, Defector, 4, D, C 
+4, 1, Defector, .25, C, D 
+1, 4, Defector, 4, D, C 
+2 , 2, Defector, 1, C, C 
+2 , 2, Defector, 1, C, C 
+2 , 2, Defector, 1, C, C 
+2 , 2, Defector, 1, C, C 
+2 , 2, Defector, 1, C, C 
+2 , 2, Defector, 1, C, C 
+2 , 2, Sneaky Tit For Tat, 1, C, C 
+4, 1, Sneaky Tit For Tat, .25, C, D 
+1, 4, Sneaky Tit For Tat, 4, D, C 
+4, 1, Sneaky Tit For Tat, .25, C, D 
+2 , 2, Sneaky Tit For Tat, 1, C, C 
+4, 1, Sneaky Tit For Tat, .25, C, D 
+1, 4, Sneaky Tit For Tat, 4, D, C 
+4, 1, Sneaky Tit For Tat, .25, C, D 
+2 , 2, Sneaky Tit For Tat, 1, C, C 
+4, 1, Sneaky Tit For Tat, .25, C, D 
+4, 1, Cooperator, .25, C, D 
+2 , 2, Cooperator, 1, C, C 
+4, 1, Cooperator, .25, C, D 
+2 , 2, Cooperator, 1, C, C 
+4, 1, Cooperator, .25, C, D 
+2 , 2, Cooperator, 1, C, C 
+4, 1, Cooperator, .25, C, D 
+2 , 2, Cooperator, 1, C, C 
+4, 1, Cooperator, .25, C, D 
+2 , 2, Cooperator, 1, C, C 
+4, 1, Two Tits For Tat, .25, C, D 
+1, 4, Two Tits For Tat, 4, D, C 
+3, 3, Two Tits For Tat, 1, D, D 
+1, 4, Two Tits For Tat, 4, D, C 
+3, 3, Two Tits For Tat, 1, D, D 
+1, 4, Two Tits For Tat, 4, D, C 
+3, 3, Two Tits For Tat, 1, D, D 
+1, 4, Two Tits For Tat, 4, D, C 
+3, 3, Two Tits For Tat, 1, D, D 
+1, 4, Two Tits For Tat, 4, D, C 
+4, 1, Slow Tit For Two Tats 2, .25, C, D 
+2 , 2, Slow Tit For Two Tats 2, 1, C, C 
+4, 1, Slow Tit For Two Tats 2, .25, C, D 
+2 , 2, Slow Tit For Two Tats 2, 1, C, C 
+4, 1, Slow Tit For Two Tats 2, .25, C, D 
+2 , 2, Slow Tit For Two Tats 2, 1, C, C 
+4, 1, Slow Tit For Two Tats 2, .25, C, D 
+2 , 2, Slow Tit For Two Tats 2, 1, C, C 
+4, 1, Slow Tit For Two Tats 2, .25, C, D 
+2 , 2, Slow Tit For Two Tats 2, 1, C, C 
+4, 1, Grudger, .25, C, D 
+2 , 2, Grudger, 1, C, C 
+4, 1, Grudger, .25, C, D 
+2 , 2, Grudger, 1, C, C 
+4, 1, Grudger, .25, C, D 
+2 , 2, Grudger, 1, C, C 
+4, 1, Grudger, .25, C, D 
+2 , 2, Grudger, 1, C, C 
+4, 1, Grudger, .25, C, D 
+2 , 2, Grudger, 1, C, C 
+4, 1, Two Tits For Tat, .25, C, D 
+2 , 2, Two Tits For Tat, 1, C, C 
+4, 1, Two Tits For Tat, .25, C, D 
+2 , 2, Two Tits For Tat, 1, C, C 
+4, 1, Two Tits For Tat, .25, C, D 
+2 , 2, Two Tits For Tat, 1, C, C 
+4, 1, Two Tits For Tat, .25, C, D 
+2 , 2, Two Tits For Tat, 1, C, C 
+4, 1, Two Tits For Tat, .25, C, D 
+2 , 2, Two Tits For Tat, 1, C, C 
+4, 1, Cooperator, .25, C, D 
+2 , 2, Cooperator, 1, C, C 
+4, 1, Cooperator, .25, C, D 
+2 , 2, Cooperator, 1, C, C 
+4, 1, Cooperator, .25, C, D 
+2 , 2, Cooperator, 1, C, C 
+4, 1, Cooperator, .25, C, D 
+2 , 2, Cooperator, 1, C, C 
+4, 1, Cooperator, .25, C, D 
+2 , 2, Cooperator, 1, C, C 
+4, 1, Suspicious Tit For Tat, .25, C, D 
+2 , 2, Suspicious Tit For Tat, 1, C, C 
+4, 1, Suspicious Tit For Tat, .25, C, D 
+2 , 2, Suspicious Tit For Tat, 1, C, C 
+4, 1, Suspicious Tit For Tat, .25, C, D 
+2 , 2, Suspicious Tit For Tat, 1, C, C 
+4, 1, Suspicious Tit For Tat, .25, C, D 
+2 , 2, Suspicious Tit For Tat, 1, C, C 
+4, 1, Suspicious Tit For Tat, .25, C, D 
+2 , 2, Suspicious Tit For Tat, 1, C, C 
+4, 1, Handshake, .25, C, D 
+2 , 2, Handshake, 1, C, C 
+4, 1, Handshake, .25, C, D 
+2 , 2, Handshake, 1, C, C 
+4, 1, Handshake, .25, C, D 
+2 , 2, Handshake, 1, C, C 
+4, 1, Handshake, .25, C, D 
+2 , 2, Handshake, 1, C, C 
+4, 1, Handshake, .25, C, D 
+2 , 2, Handshake, 1, C, C 
+4, 1, Hard Prober, .25, C, D 
+2 , 2, Hard Prober, 1, C, C 
+4, 1, Hard Prober, .25, C, D 
+2 , 2, Hard Prober, 1, C, C 
+4, 1, Hard Prober, .25, C, D 
+2 , 2, Hard Prober, 1, C, C 
+4, 1, Hard Prober, .25, C, D 
+2 , 2, Hard Prober, 1, C, C 
+4, 1, Hard Prober, .25, C, D 
+2 , 2, Hard Prober, 1, C, C 
+4, 1, Inverse, .25, C, D 
+2 , 2, Inverse, 1, C, C 
+4, 1, Inverse, .25, C, D 
+2 , 2, Inverse, 1, C, C 
+4, 1, Inverse, .25, C, D 
+2 , 2, Inverse, 1, C, C 
+4, 1, Inverse, .25, C, D 
+2 , 2, Inverse, 1, C, C 
+4, 1, Inverse, .25, C, D 
+2 , 2, Inverse, 1, C, C 
+4, 1, Grudger, .25, C, D 
+2 , 2, Grudger, 1, C, C 
+4, 1, Grudger, .25, C, D 
+2 , 2, Grudger, 1, C, C 
+4, 1, Grudger, .25, C, D 
+2 , 2, Grudger, 1, C, C 
+4, 1, Grudger, .25, C, D 
+2 , 2, Grudger, 1, C, C 
+4, 1, Grudger, .25, C, D 
+2 , 2, Grudger, 1, C, C 
+4, 1, Suspicious Tit For Tat, .25, C, D 
+2 , 2, Suspicious Tit For Tat, 1, C, C 
+4, 1, Suspicious Tit For Tat, .25, C, D 
+2 , 2, Suspicious Tit For Tat, 1, C, C 
+4, 1, Suspicious Tit For Tat, .25, C, D 
+2 , 2, Suspicious Tit For Tat, 1, C, C 
+4, 1, Suspicious Tit For Tat, .25, C, D 
+2 , 2, Suspicious Tit For Tat, 1, C, C 
+4, 1, Suspicious Tit For Tat, .25, C, D 
+2 , 2, Suspicious Tit For Tat, 1, C, C 
+4, 1, Two Tits For Tat, .25, C, D 
+2 , 2, Two Tits For Tat, 1, C, C 
+4, 1, Two Tits For Tat, .25, C, D 
+2 , 2, Two Tits For Tat, 1, C, C 
+4, 1, Two Tits For Tat, .25, C, D 
+2 , 2, Two Tits For Tat, 1, C, C 
+4, 1, Two Tits For Tat, .25, C, D 
+2 , 2, Two Tits For Tat, 1, C, C 
+4, 1, Two Tits For Tat, .25, C, D 
+2 , 2, Two Tits For Tat, 1, C, C 
+4, 1, Hard Prober, .25, C, D 
+2 , 2, Hard Prober, 1, C, C 
+4, 1, Hard Prober, .25, C, D 
+2 , 2, Hard Prober, 1, C, C 
+4, 1, Hard Prober, .25, C, D 
+2 , 2, Hard Prober, 1, C, C 
+4, 1, Hard Prober, .25, C, D 
+2 , 2, Hard Prober, 1, C, C 
+4, 1, Hard Prober, .25, C, D 
+2 , 2, Hard Prober, 1, C, C 
+4, 1, Inverse, .25, C, D 
+2 , 2, Inverse, 1, C, C 
+4, 1, Inverse, .25, C, D 
+2 , 2, Inverse, 1, C, C 
+4, 1, Inverse, .25, C, D 
+2 , 2, Inverse, 1, C, C 
+4, 1, Inverse, .25, C, D 
+2 , 2, Inverse, 1, C, C 
+4, 1, Inverse, .25, C, D 
+2 , 2, Inverse, 1, C, C 
+4, 1, Two Tits For Tat, .25, C, D 
+2 , 2, Two Tits For Tat, 1, C, C 
+4, 1, Two Tits For Tat, .25, C, D 
+2 , 2, Two Tits For Tat, 1, C, C 
+4, 1, Two Tits For Tat, .25, C, D 
+2 , 2, Two Tits For Tat, 1, C, C 
+4, 1, Two Tits For Tat, .25, C, D 
+2 , 2, Two Tits For Tat, 1, C, C 
+4, 1, Two Tits For Tat, .25, C, D 
+2 , 2, Two Tits For Tat, 1, C, C 
+4, 1, Two Tits For Tat, .25, C, D 
+2 , 2, Two Tits For Tat, 1, C, C 
+4, 1, Two Tits For Tat, .25, C, D 
+2 , 2, Two Tits For Tat, 1, C, C 
+4, 1, Two Tits For Tat, .25, C, D 
+2 , 2, Two Tits For Tat, 1, C, C 
+4, 1, Two Tits For Tat, .25, C, D 
+2 , 2, Two Tits For Tat, 1, C, C 
+4, 1, Two Tits For Tat, .25, C, D 
+2 , 2, Two Tits For Tat, 1, C, C 
+3, 3, Defector, 1, D, D 
+1, 4, Defector, 4, D, C 
+3, 3, Defector, 1, D, D 
+1, 4, Defector, 4, D, C 
+3, 3, Defector, 1, D, D 
+1, 4, Defector, 4, D, C 
+3, 3, Defector, 1, D, D 
+1, 4, Defector, 4, D, C 
+3, 3, Defector, 1, D, D 
+1, 4, Defector, 4, D, C 
+3, 3, Aggravater, 1, D, D 
+3, 3, Aggravater, 1, D, D 
+3, 3, Aggravater, 1, D, D 
+3, 3, Aggravater, 1, D, D 
+3, 3, Aggravater, 1, D, D 
+3, 3, Aggravater, 1, D, D 
+3, 3, Aggravater, 1, D, D 
+3, 3, Aggravater, 1, D, D 
+3, 3, Aggravater, 1, D, D 
+3, 3, Aggravater, 1, D, D 
+3, 3, Sneaky Tit For Tat, 1, D, D 
+3, 3, Sneaky Tit For Tat, 1, D, D 
+3, 3, Sneaky Tit For Tat, 1, D, D 
+3, 3, Sneaky Tit For Tat, 1, D, D 
+3, 3, Sneaky Tit For Tat, 1, D, D 
+3, 3, Sneaky Tit For Tat, 1, D, D 
+3, 3, Sneaky Tit For Tat, 1, D, D 
+3, 3, Sneaky Tit For Tat, 1, D, D 
+3, 3, Sneaky Tit For Tat, 1, D, D 
+3, 3, Sneaky Tit For Tat, 1, D, D 
+3, 3, Spiteful Tit For Tat, 1, D, D 
+3, 3, Spiteful Tit For Tat, 1, D, D 
+3, 3, Spiteful Tit For Tat, 1, D, D 
+3, 3, Spiteful Tit For Tat, 1, D, D 
+3, 3, Spiteful Tit For Tat, 1, D, D 
+3, 3, Spiteful Tit For Tat, 1, D, D 
+3, 3, Spiteful Tit For Tat, 1, D, D 
+3, 3, Spiteful Tit For Tat, 1, D, D 
+3, 3, Spiteful Tit For Tat, 1, D, D 
+3, 3, Spiteful Tit For Tat, 1, D, D 
+3, 3, Spiteful Tit For Tat, 1, D, D 
+3, 3, Spiteful Tit For Tat, 1, D, D 
+3, 3, Spiteful Tit For Tat, 1, D, D 
+3, 3, Spiteful Tit For Tat, 1, D, D 
+3, 3, Spiteful Tit For Tat, 1, D, D 
+3, 3, Spiteful Tit For Tat, 1, D, D 
+3, 3, Spiteful Tit For Tat, 1, D, D 
+3, 3, Spiteful Tit For Tat, 1, D, D 
+3, 3, Spiteful Tit For Tat, 1, D, D 
+3, 3, Spiteful Tit For Tat, 1, D, D 
+3, 3, Spiteful Tit For Tat, 1, D, D 
+3, 3, Spiteful Tit For Tat, 1, D, D 
+3, 3, Spiteful Tit For Tat, 1, D, D 
+3, 3, Spiteful Tit For Tat, 1, D, D 
+3, 3, Spiteful Tit For Tat, 1, D, D 
+3, 3, Spiteful Tit For Tat, 1, D, D 
+3, 3, Spiteful Tit For Tat, 1, D, D 
+3, 3, Spiteful Tit For Tat, 1, D, D 
+3, 3, Spiteful Tit For Tat, 1, D, D 
+3, 3, Spiteful Tit For Tat, 1, D, D 
+1, 4, Bully, 4, D, C 
+3, 3, Bully, 1, D, D 
+2 , 2, Bully, 1, C, C 
+3, 3, Bully, 1, D, D 
+2 , 2, Bully, 1, C, C 
+3, 3, Bully, 1, D, D 
+2 , 2, Bully, 1, C, C 
+3, 3, Bully, 1, D, D 
+2 , 2, Bully, 1, C, C 
+3, 3, Bully, 1, D, D 
+3, 3, Bully, 1, D, D 
+2 , 2, Bully, 1, C, C 
+3, 3, Bully, 1, D, D 
+2 , 2, Bully, 1, C, C 
+3, 3, Bully, 1, D, D 
+2 , 2, Bully, 1, C, C 
+3, 3, Bully, 1, D, D 
+2 , 2, Bully, 1, C, C 
+3, 3, Bully, 1, D, D 
+2 , 2, Bully, 1, C, C 
+3, 3, Aggravater, 1, D, D 
+2 , 2, Aggravater, 1, C, C 
+3, 3, Aggravater, 1, D, D 
+2 , 2, Aggravater, 1, C, C 
+3, 3, Aggravater, 1, D, D 
+2 , 2, Aggravater, 1, C, C 
+3, 3, Aggravater, 1, D, D 
+2 , 2, Aggravater, 1, C, C 
+3, 3, Aggravater, 1, D, D 
+2 , 2, Aggravater, 1, C, C 
+4, 1, Cooperator, .25, C, D 
+2 , 2, Cooperator, 1, C, C 
+4, 1, Cooperator, .25, C, D 
+2 , 2, Cooperator, 1, C, C 
+4, 1, Cooperator, .25, C, D 
+2 , 2, Cooperator, 1, C, C 
+4, 1, Cooperator, .25, C, D 
+2 , 2, Cooperator, 1, C, C 
+4, 1, Cooperator, .25, C, D 
+2 , 2, Cooperator, 1, C, C 
+4, 1, Spiteful Tit For Tat, .25, C, D 
+2 , 2, Spiteful Tit For Tat, 1, C, C 
+4, 1, Spiteful Tit For Tat, .25, C, D 
+2 , 2, Spiteful Tit For Tat, 1, C, C 
+4, 1, Spiteful Tit For Tat, .25, C, D 
+2 , 2, Spiteful Tit For Tat, 1, C, C 
+4, 1, Spiteful Tit For Tat, .25, C, D 
+2 , 2, Spiteful Tit For Tat, 1, C, C 
+4, 1, Spiteful Tit For Tat, .25, C, D 
+2 , 2, Spiteful Tit For Tat, 1, C, C 
+4, 1, Two Tits For Tat, .25, C, D 
+1, 4, Two Tits For Tat, 4, D, C 
+3, 3, Two Tits For Tat, 1, D, D 
+1, 4, Two Tits For Tat, 4, D, C 
+3, 3, Two Tits For Tat, 1, D, D 
+1, 4, Two Tits For Tat, 4, D, C 
+3, 3, Two Tits For Tat, 1, D, D 
+1, 4, Two Tits For Tat, 4, D, C 
+3, 3, Two Tits For Tat, 1, D, D 
+1, 4, Two Tits For Tat, 4, D, C 
+4, 1, Grudger, .25, C, D 
+1, 4, Grudger, 4, D, C 
+3, 3, Grudger, 1, D, D 
+1, 4, Grudger, 4, D, C 
+3, 3, Grudger, 1, D, D 
+1, 4, Grudger, 4, D, C 
+3, 3, Grudger, 1, D, D 
+1, 4, Grudger, 4, D, C 
+3, 3, Grudger, 1, D, D 
+1, 4, Grudger, 4, D, C 
+4, 1, Spiteful Tit For Tat, .25, C, D 
+1, 4, Spiteful Tit For Tat, 4, D, C 
+3, 3, Spiteful Tit For Tat, 1, D, D 
+1, 4, Spiteful Tit For Tat, 4, D, C 
+3, 3, Spiteful Tit For Tat, 1, D, D 
+1, 4, Spiteful Tit For Tat, 4, D, C 
+3, 3, Spiteful Tit For Tat, 1, D, D 
+1, 4, Spiteful Tit For Tat, 4, D, C 
+3, 3, Spiteful Tit For Tat, 1, D, D 
+1, 4, Spiteful Tit For Tat, 4, D, C 
+4, 1, Defector, .25, C, D 
+1, 4, Defector, 4, D, C 
+3, 3, Defector, 1, D, D 
+1, 4, Defector, 4, D, C 
+3, 3, Defector, 1, D, D 
+1, 4, Defector, 4, D, C 
+3, 3, Defector, 1, D, D 
+1, 4, Defector, 4, D, C 
+3, 3, Defector, 1, D, D 
+1, 4, Defector, 4, D, C 
+4, 1, Defector, .25, C, D 
+1, 4, Defector, 4, D, C 
+3, 3, Defector, 1, D, D 
+1, 4, Defector, 4, D, C 
+3, 3, Defector, 1, D, D 
+1, 4, Defector, 4, D, C 
+3, 3, Defector, 1, D, D 
+1, 4, Defector, 4, D, C 
+3, 3, Defector, 1, D, D 
+1, 4, Defector, 4, D, C 
+4, 1, Handshake, .25, C, D 
+1, 4, Handshake, 4, D, C 
+3, 3, Handshake, 1, D, D 
+1, 4, Handshake, 4, D, C 
+3, 3, Handshake, 1, D, D 
+1, 4, Handshake, 4, D, C 
+3, 3, Handshake, 1, D, D 
+1, 4, Handshake, 4, D, C 
+3, 3, Handshake, 1, D, D 
+1, 4, Handshake, 4, D, C 
+4, 1, Two Tits For Tat, .25, C, D 
+1, 4, Two Tits For Tat, 4, D, C 
+3, 3, Two Tits For Tat, 1, D, D 
+1, 4, Two Tits For Tat, 4, D, C 
+3, 3, Two Tits For Tat, 1, D, D 
+1, 4, Two Tits For Tat, 4, D, C 
+3, 3, Two Tits For Tat, 1, D, D 
+1, 4, Two Tits For Tat, 4, D, C 
+3, 3, Two Tits For Tat, 1, D, D 
+1, 4, Two Tits For Tat, 4, D, C 
+4, 1, Inverse, .25, C, D 
+1, 4, Inverse, 4, D, C 
+4, 1, Inverse, .25, C, D 
+1, 4, Inverse, 4, D, C 
+4, 1, Inverse, .25, C, D 
+1, 4, Inverse, 4, D, C 
+4, 1, Inverse, .25, C, D 
+1, 4, Inverse, 4, D, C 
+3, 3, Inverse, 1, D, D 
+1, 4, Inverse, 4, D, C 
+3, 3, Suspicious Tit For Tat, 1, D, D 
+1, 4, Suspicious Tit For Tat, 4, D, C 
+4, 1, Suspicious Tit For Tat, .25, C, D 
+1, 4, Suspicious Tit For Tat, 4, D, C 
+4, 1, Suspicious Tit For Tat, .25, C, D 
+1, 4, Suspicious Tit For Tat, 4, D, C 
+4, 1, Suspicious Tit For Tat, .25, C, D 
+1, 4, Suspicious Tit For Tat, 4, D, C 
+4, 1, Suspicious Tit For Tat, .25, C, D 
+1, 4, Suspicious Tit For Tat, 4, D, C 
+3, 3, Spiteful Tit For Tat, 1, D, D 
+1, 4, Spiteful Tit For Tat, 4, D, C 
+4, 1, Spiteful Tit For Tat, .25, C, D 
+1, 4, Spiteful Tit For Tat, 4, D, C 
+4, 1, Spiteful Tit For Tat, .25, C, D 
+1, 4, Spiteful Tit For Tat, 4, D, C 
+4, 1, Spiteful Tit For Tat, .25, C, D 
+1, 4, Spiteful Tit For Tat, 4, D, C 
+4, 1, Spiteful Tit For Tat, .25, C, D 
+1, 4, Spiteful Tit For Tat, 4, D, C 
+3, 3, Defector, 1, D, D 
+1, 4, Defector, 4, D, C 
+4, 1, Defector, .25, C, D 
+1, 4, Defector, 4, D, C 
+4, 1, Defector, .25, C, D 
+1, 4, Defector, 4, D, C 
+4, 1, Defector, .25, C, D 
+1, 4, Defector, 4, D, C 
+4, 1, Defector, .25, C, D 
+1, 4, Defector, 4, D, C 
+3, 3, Defector, 1, D, D 
+1, 4, Defector, 4, D, C 
+4, 1, Defector, .25, C, D 
+1, 4, Defector, 4, D, C 
+4, 1, Defector, .25, C, D 
+1, 4, Defector, 4, D, C 
+4, 1, Defector, .25, C, D 
+1, 4, Defector, 4, D, C 
+4, 1, Defector, .25, C, D 
+1, 4, Defector, 4, D, C 
+3, 3, Two Tits For Tat, 1, D, D 
+1, 4, Two Tits For Tat, 4, D, C 
+4, 1, Two Tits For Tat, .25, C, D 
+1, 4, Two Tits For Tat, 4, D, C 
+4, 1, Two Tits For Tat, .25, C, D 
+1, 4, Two Tits For Tat, 4, D, C 
+4, 1, Two Tits For Tat, .25, C, D 
+1, 4, Two Tits For Tat, 4, D, C 
+4, 1, Two Tits For Tat, .25, C, D 
+1, 4, Two Tits For Tat, 4, D, C 
+3, 3, Grudger, 1, D, D 
+1, 4, Grudger, 4, D, C 
+4, 1, Grudger, .25, C, D 
+1, 4, Grudger, 4, D, C 
+4, 1, Grudger, .25, C, D 
+1, 4, Grudger, 4, D, C 
+4, 1, Grudger, .25, C, D 
+1, 4, Grudger, 4, D, C 
+4, 1, Grudger, .25, C, D 
+1, 4, Grudger, 4, D, C 
+3, 3, Spiteful Tit For Tat, 1, D, D 
+1, 4, Spiteful Tit For Tat, 4, D, C 
+4, 1, Spiteful Tit For Tat, .25, C, D 
+1, 4, Spiteful Tit For Tat, 4, D, C 
+4, 1, Spiteful Tit For Tat, .25, C, D 
+1, 4, Spiteful Tit For Tat, 4, D, C 
+4, 1, Spiteful Tit For Tat, .25, C, D 
+1, 4, Spiteful Tit For Tat, 4, D, C 
+4, 1, Spiteful Tit For Tat, .25, C, D 
+1, 4, Spiteful Tit For Tat, 4, D, C 
+3, 3, Spiteful Tit For Tat, 1, D, D 
+1, 4, Spiteful Tit For Tat, 4, D, C 
+4, 1, Spiteful Tit For Tat, .25, C, D 
+1, 4, Spiteful Tit For Tat, 4, D, C 
+4, 1, Spiteful Tit For Tat, .25, C, D 
+1, 4, Spiteful Tit For Tat, 4, D, C 
+4, 1, Spiteful Tit For Tat, .25, C, D 
+1, 4, Spiteful Tit For Tat, 4, D, C 
+4, 1, Spiteful Tit For Tat, .25, C, D 
+1, 4, Spiteful Tit For Tat, 4, D, C 
+3, 3, Opposite Grudger, 1, D, D 
+1, 4, Opposite Grudger, 4, D, C 
+4, 1, Opposite Grudger, .25, C, D 
+1, 4, Opposite Grudger, 4, D, C 
+4, 1, Opposite Grudger, .25, C, D 
+1, 4, Opposite Grudger, 4, D, C 
+4, 1, Opposite Grudger, .25, C, D 
+1, 4, Opposite Grudger, 4, D, C 
+4, 1, Opposite Grudger, .25, C, D 
+1, 4, Opposite Grudger, 4, D, C 
+3, 3, Two Tits For Tat, 1, D, D 
+1, 4, Two Tits For Tat, 4, D, C 
+4, 1, Two Tits For Tat, .25, C, D 
+1, 4, Two Tits For Tat, 4, D, C 
+4, 1, Two Tits For Tat, .25, C, D 
+1, 4, Two Tits For Tat, 4, D, C 
+4, 1, Two Tits For Tat, .25, C, D 
+1, 4, Two Tits For Tat, 4, D, C 
+4, 1, Two Tits For Tat, .25, C, D 
+1, 4, Two Tits For Tat, 4, D, C 
+3, 3, Defector, 1, D, D 
+1, 4, Defector, 4, D, C 
+4, 1, Defector, .25, C, D 
+1, 4, Defector, 4, D, C 
+4, 1, Defector, .25, C, D 
+1, 4, Defector, 4, D, C 
+4, 1, Defector, .25, C, D 
+1, 4, Defector, 4, D, C 
+4, 1, Defector, .25, C, D 
+1, 4, Defector, 4, D, C 
+3, 3, Defector, 1, D, D 
+1, 4, Defector, 4, D, C 
+4, 1, Defector, .25, C, D 
+1, 4, Defector, 4, D, C 
+4, 1, Defector, .25, C, D 
+1, 4, Defector, 4, D, C 
+4, 1, Defector, .25, C, D 
+1, 4, Defector, 4, D, C 
+4, 1, Defector, .25, C, D 
+1, 4, Defector, 4, D, C 
+2 , 2, Sneaky Tit For Tat, 1, C, C 
+4, 1, Sneaky Tit For Tat, .25, C, D 
+1, 4, Sneaky Tit For Tat, 4, D, C 
+4, 1, Sneaky Tit For Tat, .25, C, D 
+2 , 2, Sneaky Tit For Tat, 1, C, C 
+4, 1, Sneaky Tit For Tat, .25, C, D 
+1, 4, Sneaky Tit For Tat, 4, D, C 
+4, 1, Sneaky Tit For Tat, .25, C, D 
+2 , 2, Sneaky Tit For Tat, 1, C, C 
+4, 1, Sneaky Tit For Tat, .25, C, D 
+3, 3, Suspicious Tit For Tat, 1, D, D 
+3, 3, Suspicious Tit For Tat, 1, D, D 
+3, 3, Suspicious Tit For Tat, 1, D, D 
+3, 3, Suspicious Tit For Tat, 1, D, D 
+3, 3, Suspicious Tit For Tat, 1, D, D 
+3, 3, Suspicious Tit For Tat, 1, D, D 
+3, 3, Suspicious Tit For Tat, 1, D, D 
+3, 3, Suspicious Tit For Tat, 1, D, D 
+3, 3, Suspicious Tit For Tat, 1, D, D 
+3, 3, Suspicious Tit For Tat, 1, D, D 
+3, 3, Suspicious Tit For Tat, 1, D, D 
+1, 4, Suspicious Tit For Tat, 4, D, C 
+4, 1, Suspicious Tit For Tat, .25, C, D 
+1, 4, Suspicious Tit For Tat, 4, D, C 
+4, 1, Suspicious Tit For Tat, .25, C, D 
+1, 4, Suspicious Tit For Tat, 4, D, C 
+4, 1, Suspicious Tit For Tat, .25, C, D 
+1, 4, Suspicious Tit For Tat, 4, D, C 
+4, 1, Suspicious Tit For Tat, .25, C, D 
+1, 4, Suspicious Tit For Tat, 4, D, C 
+4, 1, Grudger, .25, C, D 
+1, 4, Grudger, 4, D, C 
+3, 3, Grudger, 1, D, D 
+1, 4, Grudger, 4, D, C 
+3, 3, Grudger, 1, D, D 
+1, 4, Grudger, 4, D, C 
+3, 3, Grudger, 1, D, D 
+1, 4, Grudger, 4, D, C 
+3, 3, Grudger, 1, D, D 
+1, 4, Grudger, 4, D, C 
+3, 3, Opposite Grudger, 1, D, D 
+1, 4, Opposite Grudger, 4, D, C 
+4, 1, Opposite Grudger, .25, C, D 
+2 , 2, Opposite Grudger, 1, C, C 
+4, 1, Opposite Grudger, .25, C, D 
+2 , 2, Opposite Grudger, 1, C, C 
+4, 1, Opposite Grudger, .25, C, D 
+2 , 2, Opposite Grudger, 1, C, C 
+4, 1, Opposite Grudger, .25, C, D 
+2 , 2, Opposite Grudger, 1, C, C 
+4, 1, Handshake, .25, C, D 
+1, 4, Handshake, 4, D, C 
+3, 3, Handshake, 1, D, D 
+1, 4, Handshake, 4, D, C 
+3, 3, Handshake, 1, D, D 
+1, 4, Handshake, 4, D, C 
+3, 3, Handshake, 1, D, D 
+1, 4, Handshake, 4, D, C 
+3, 3, Handshake, 1, D, D 
+1, 4, Handshake, 4, D, C 
+4, 1, Handshake, .25, C, D 
+1, 4, Handshake, 4, D, C 
+3, 3, Handshake, 1, D, D 
+1, 4, Handshake, 4, D, C 
+3, 3, Handshake, 1, D, D 
+1, 4, Handshake, 4, D, C 
+3, 3, Handshake, 1, D, D 
+1, 4, Handshake, 4, D, C 
+3, 3, Handshake, 1, D, D 
+1, 4, Handshake, 4, D, C 
+3, 3, Suspicious Tit For Tat, 1, D, D 
+1, 4, Suspicious Tit For Tat, 4, D, C 
+4, 1, Suspicious Tit For Tat, .25, C, D 
+1, 4, Suspicious Tit For Tat, 4, D, C 
+4, 1, Suspicious Tit For Tat, .25, C, D 
+1, 4, Suspicious Tit For Tat, 4, D, C 
+4, 1, Suspicious Tit For Tat, .25, C, D 
+1, 4, Suspicious Tit For Tat, 4, D, C 
+4, 1, Suspicious Tit For Tat, .25, C, D 
+1, 4, Suspicious Tit For Tat, 4, D, C 
+1, 4, Defector, 4, D, C 
+1, 4, Defector, 4, D, C 
+1, 4, Defector, 4, D, C 
+1, 4, Defector, 4, D, C 
+1, 4, Defector, 4, D, C 
+1, 4, Defector, 4, D, C 
+1, 4, Defector, 4, D, C 
+1, 4, Defector, 4, D, C 
+1, 4, Defector, 4, D, C 
+1, 4, Defector, 4, D, C 
+3, 3, Defector, 1, D, D 
+1, 4, Defector, 4, D, C 
+1, 4, Defector, 4, D, C 
+1, 4, Defector, 4, D, C 
+1, 4, Defector, 4, D, C 
+1, 4, Defector, 4, D, C 
+1, 4, Defector, 4, D, C 
+1, 4, Defector, 4, D, C 
+1, 4, Defector, 4, D, C 
+1, 4, Defector, 4, D, C 
+2 , 2, Two Tits For Tat, 1, C, C 
+2 , 2, Two Tits For Tat, 1, C, C 
+2 , 2, Two Tits For Tat, 1, C, C 
+2 , 2, Two Tits For Tat, 1, C, C 
+4, 1, Two Tits For Tat, .25, C, D 
+3, 3, Two Tits For Tat, 1, D, D 
+3, 3, Two Tits For Tat, 1, D, D 
+3, 3, Two Tits For Tat, 1, D, D 
+3, 3, Two Tits For Tat, 1, D, D 
+3, 3, Two Tits For Tat, 1, D, D 
+3, 3, Defector, 1, D, D 
+1, 4, Defector, 4, D, C 
+1, 4, Defector, 4, D, C 
+1, 4, Defector, 4, D, C 
+1, 4, Defector, 4, D, C 
+1, 4, Defector, 4, D, C 
+1, 4, Defector, 4, D, C 
+1, 4, Defector, 4, D, C 
+1, 4, Defector, 4, D, C 
+1, 4, Defector, 4, D, C 
+2 , 2, Spiteful Tit For Tat, 1, C, C 
+4, 1, Spiteful Tit For Tat, .25, C, D 
+3, 3, Spiteful Tit For Tat, 1, D, D 
+3, 3, Spiteful Tit For Tat, 1, D, D 
+3, 3, Spiteful Tit For Tat, 1, D, D 
+3, 3, Spiteful Tit For Tat, 1, D, D 
+3, 3, Spiteful Tit For Tat, 1, D, D 
+3, 3, Spiteful Tit For Tat, 1, D, D 
+3, 3, Spiteful Tit For Tat, 1, D, D 
+3, 3, Spiteful Tit For Tat, 1, D, D 
+1, 4, Defector, 4, D, C 
+1, 4, Defector, 4, D, C 
+2 , 2, Defector, 1, C, C 
+1, 4, Defector, 4, D, C 
+1, 4, Defector, 4, D, C 
+1, 4, Defector, 4, D, C 
+1, 4, Defector, 4, D, C 
+2 , 2, Defector, 1, C, C 
+1, 4, Defector, 4, D, C 
+2 , 2, Defector, 1, C, C 
+2 , 2, Spiteful Tit For Tat, 1, C, C 
+4, 1, Spiteful Tit For Tat, .25, C, D 
+1, 4, Spiteful Tit For Tat, 4, D, C 
+3, 3, Spiteful Tit For Tat, 1, D, D 
+1, 4, Spiteful Tit For Tat, 4, D, C 
+4, 1, Spiteful Tit For Tat, .25, C, D 
+1, 4, Spiteful Tit For Tat, 4, D, C 
+4, 1, Spiteful Tit For Tat, .25, C, D 
+1, 4, Spiteful Tit For Tat, 4, D, C 
+4, 1, Spiteful Tit For Tat, .25, C, D 
+2 , 2, Two Tits For Tat, 1, C, C 
+4, 1, Two Tits For Tat, .25, C, D 
+3, 3, Two Tits For Tat, 1, D, D 
+4, 1, Two Tits For Tat, .25, C, D 
+3, 3, Two Tits For Tat, 1, D, D 
+3, 3, Two Tits For Tat, 1, D, D 
+3, 3, Two Tits For Tat, 1, D, D 
+3, 3, Two Tits For Tat, 1, D, D 
+4, 1, Two Tits For Tat, .25, C, D 
+3, 3, Two Tits For Tat, 1, D, D 
