@@ -1,6 +1,7 @@
 import axelrod as axl
 import numpy as np
 from numpy import random as rand
+import random
 
 strategyList = [axl.Cooperator(), axl.Defector(), axl.TitForTat(), axl.Grudger(), axl.TwoTitsForTat(), axl.SlowTitForTwoTats2(), axl.SuspiciousTitForTat(), axl.SpitefulTitForTat(), axl.SneakyTitForTat(), axl.SlowTitForTwoTats2(), axl.Bully(), axl.HardProber(), axl.Inverse(), axl.Handshake(), axl.OppositeGrudger(),axl.Aggravater()]
 
@@ -227,8 +228,9 @@ def defect(last, lastme):
 def coop(last, lastme):
     return 0
 
+counter = 0
 def grudger(last, lastme):
-    counter = 0
+    global counter
     if last == 1:
         counter = 1
     if counter == 1:
@@ -344,12 +346,65 @@ inverseCounter = 0
 def inverse(last, lastme):
     global inverseCounter
     if last == 1:
-        outcome = random.randint(1,100)
-        if outcome < inverseCounter:
         inverseCounter += 1
+        outcome = random.randint(1,100)
+        if outcome < inverseCounter*15:
+            return 0
     else:
         inverseCounter = 0
+        return 1
+
+handshake_counter = 0
+handshake_counter2 = 0
+def handshake(last, lastme):
+    global handshake_counter
+    global handshake_counter2
+    handshake_counter += 1
+    if handshake_counter == 1:
         return 0
+    if handshake_counter == 2:
+        if last == 0:
+            handshake_counter2 += 1
+        return 1
+    if handshake_counter == 3:
+        if last == 1:
+            handshake_counter2 += 1
+    if handshake_counter2 == 2:
+        return 0
+    else:
+        return 1
+
+oppositegrudger_counter = 0
+def oppositegrudger(last,lastme):
+    global oppositegrudger_counter
+    if last == None:
+        return 1
+    if last == 0:
+        oppositegrudger_counter = 1
+    if oppositegrudger_counter == 1:
+        return 0
+    else:
+        return 1
+
+aggravater_counter = 0
+aggravater_counter2 = 0
+def aggravater(last, lastme):
+    global aggravater_counter
+    global aggravater_counter2
+    aggravater_counter += 1
+    if aggravater_counter <= 3:
+        return 1
+    else:
+        if last == 1:
+            aggravater_counter2 = 1
+        if aggravater_counter2 == 1:
+            return 1
+        else:
+            return 0
+
+
+
+
 
 
 
@@ -364,10 +419,11 @@ def inverse(last, lastme):
 
 
 t4t2_counter = 0
+
 last = None
 lastme = None
-base_prob = [1,1,1,1,1,1,1,1,1,1,1]
-algs = [t4t, defect, coop, grudger, t4t2, st42t2, sus4tat, spite4tat, sneak4tat, bully, hardprober]
+base_prob = [1,1,1,1,1,1,1,1,1,1,1,1,1,1,1]
+algs = [t4t, defect, coop, grudger, t4t2, st42t2, sus4tat, spite4tat, sneak4tat, bully, hardprober, inverse, handshake, oppositegrudger, aggravater]
 for comp, me in results:
     if str(comp) == 'C':
         comp = 0
