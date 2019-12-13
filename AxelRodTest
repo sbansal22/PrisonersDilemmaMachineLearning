@@ -5,6 +5,9 @@ import random
 
 strategyList = [axl.Cooperator(), axl.Defector(), axl.TitForTat(), axl.Grudger(), axl.TwoTitsForTat(), axl.SlowTitForTwoTats2(), axl.SuspiciousTitForTat(), axl.SpitefulTitForTat(), axl.SneakyTitForTat(), axl.SlowTitForTwoTats2(), axl.Bully(), axl.HardProber(), axl.Inverse(), axl.Handshake(), axl.OppositeGrudger(),axl.Aggravater()]
 
+"""
+this function automates the game creation process
+"""
 def make_game(NumberOfTurns):
     me = axl.Human(name='me')
     players = [strategyList[rand.randint(0,len(strategyList))], me]
@@ -14,6 +17,13 @@ def make_game(NumberOfTurns):
     #print(results)
     return results, strategy
 
+"""
+this function was mostly unused
+but was originally intended to traverse
+files and record the most recent results
+until we found the use of the "history"
+dataset
+"""
 def file_traverser(file_name):
     File_object = open(file_name, "r+")
     actionList = []
@@ -35,7 +45,10 @@ def file_traverser(file_name):
     return robotComparisonList, humanComparisonList
 
 
-
+"""
+this sprawling function calculates the probabilities of a given strategy to win
+by traversing our long self made dataset of game outcomes
+"""
 def probability_calculator(file_name):
     myscore = 0
     oppscore = 0
@@ -98,6 +111,10 @@ def probability_calculator(file_name):
 
 # for the first run, it must be File_object = open(r"PrisonerDilemma", "w+"), so that the file is created
 
+"""
+this function stores the data from the most recent games onto a text file
+so it can be used for further analysis
+"""
 def store_data(data):
     File_object = open(r"PrisonerDilemma","a")
     total = 0
@@ -149,6 +166,10 @@ def store_data(data):
     elif ratio >= 1:
         print('you lost')
 
+"""
+This function chooses which strategy will be next with a level of randomness
+using bayesian methods
+"""
 def BayesStratChoice(newdic):
     total = 0
     valueList = []
@@ -163,7 +184,9 @@ def BayesStratChoice(newdic):
     chosenStrat = np.random.choice(keyList, 1, valueList)
     return chosenStrat
 
-
+"""
+A list of every strategy we analyzed
+"""
 strategyList = [axl.Cooperator(), axl.Defector(), axl.TitForTat(), axl.Grudger(), axl.TwoTitsForTat(), axl.SlowTitForTwoTats2(), axl.SuspiciousTitForTat(), axl.SpitefulTitForTat(), axl.SneakyTitForTat(), axl.Bully(), axl.HardProber(), axl.Inverse(), axl.Handshake(), axl.OppositeGrudger(),axl.Aggravater()]
 # def main():
 # game_maker, strategy = make_game(10)
@@ -171,6 +194,11 @@ strategyList = [axl.Cooperator(), axl.Defector(), axl.TitForTat(), axl.Grudger()
 listy,newdic,File_object = probability_calculator('PrisonerDilemma')
 #print(newdic)
 #print('dictionary above')
+
+"""
+this horrifying chunk of code dealt with automating the creation of the next
+game by defining the strategy as an axl object
+"""
 me = axl.Human(name='me')
 if str(BayesStratChoice(newdic)[0].replace(' ', '')) == 'Cooperator':
     strat = axl.Cooperator()
@@ -217,8 +245,20 @@ results = match.play()
 print(results)
 store_data(results)
 
+"""
+now we begin bayesian processes to analyze the human player's moves
+r is the likelihood that strategies will randomly do the opposite of their
+original intention
+"""
 r = .85
 
+
+"""
+each of these functions defines the likelihood
+of each of 10 given moves to show up if the human was playing
+a certain strategy. Look on our writeup to find the full documentation
+of these strategies linked
+"""
 def t4t(last, lastme):
     return last
 
@@ -417,7 +457,10 @@ def aggravater(last, lastme):
 
 
 
-
+"""
+Finally, this section takes the functions defined above and runs them through bayesian
+processes to determine the total likelihood that the human player is mimicking that strategy
+"""
 t4t2_counter = 0
 
 last = None
